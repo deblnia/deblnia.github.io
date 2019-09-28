@@ -38,9 +38,13 @@ pygmentsStyle = "vs"
     name = "nonacademic"
     weight = 2
   [[menu.main]]
+    url = "/projects/"
+    name = "projects"
+    weight = 3
+  [[menu.main]]
     url = "/posts/"
     name = "blog"
-    weight = 3
+    weight = 4
 
   # Footer
   [[menu.footer]]
