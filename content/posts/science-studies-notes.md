@@ -1,7 +1,8 @@
 ---
 date: "2019-12-09"
 tags:
-- aut2019
+- uchicago
+- notes
 title: Introduction to Science Studies Notes 
 ---
 
