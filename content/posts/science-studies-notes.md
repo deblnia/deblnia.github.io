@@ -6,7 +6,7 @@ tags:
 title: Introduction to Science Studies Notes 
 ---
 
-This class was kind of a shit-show, and we never really talked about the readings in class. The 16 readings here were the required ones featured on the exam. 
+The 16 readings here were the required ones featured on the exam. 
 
 ### Merton, Robert K. 1942. “The Normative Structure of Science,”  pp. 267-278
 
