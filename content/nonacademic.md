@@ -1,6 +1,8 @@
 ---
 title: a concept:nonacademic
 ---
+## 2019 
+- [Civic Tech in Action](https://civichall.org/civicist/civic-tech-action-using-ai-help-build-radical-health-solution/) [Civicist. October]
 
 ## 2018 
 - [Do You Want A Septum Piercing or Do You Just Want the Cool Bisexuals to Let You Sit at Their Lunch Table?](https://reductress.com/post/do-you-want-a-septum-piercing-or-do-you-just-want-the-cool-bisexuals-to-let-you-sit-at-their-lunch-table/) [Reductress. December.]
