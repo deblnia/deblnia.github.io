@@ -3,7 +3,7 @@ title: a concept:nonacademic
 ---
 ## 2019 
 - [UChicago Wifi Ranked #333,333,333 by US News and World Report](https://chicagoshadydealer.com/index.php/2019/11/23/uchicago-wifi-ranked-333333333-by-us-news-and-world-report/) [Chicago Shady Dealer. November.]
-- [Civic Tech in Action](https://civichall.org/civicist/civic-tech-action-using-ai-help-build-radical-health-solution/) [Civicist. October]
+- [Civic Tech in Action](https://civichall.org/civicist/civic-tech-action-using-ai-help-build-radical-health-solution/) [Civicist. October.]
 
 ## 2018 
 - [Do You Want A Septum Piercing or Do You Just Want the Cool Bisexuals to Let You Sit at Their Lunch Table?](https://reductress.com/post/do-you-want-a-septum-piercing-or-do-you-just-want-the-cool-bisexuals-to-let-you-sit-at-their-lunch-table/) [Reductress. December.]
