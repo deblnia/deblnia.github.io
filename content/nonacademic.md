@@ -1,6 +1,10 @@
 ---
 title: a concept:nonacademic
 ---
+## 2020
+
+- [Lack of Access, Long Waitlists: Education in Illinois Prisons](https://illinoisnewsroom.org/2020/02/11/lack-of-access-long-waitlists-education-in-illinois-prisons/) [Southside Weekly, Print Edition. Data Visualization. Feburary.] 
+
 ## 2019 
 - [UChicago Wifi Ranked #333,333,333 by US News and World Report](https://chicagoshadydealer.com/index.php/2019/11/23/uchicago-wifi-ranked-333333333-by-us-news-and-world-report/) [Chicago Shady Dealer. November.]
 - [Civic Tech in Action](https://civichall.org/civicist/civic-tech-action-using-ai-help-build-radical-health-solution/) [Civicist. October.]
