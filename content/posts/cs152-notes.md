@@ -67,6 +67,7 @@ These are notes for the final exam in CS 152, taught by Diana Franklin. The code
 
 
 **Graph:** 
+
 - Graphs are like n-ary trees but can have cycles (point back to themselves)
 - Also searched bredth-first / depth-first 
 - Can be directed / undirected 
