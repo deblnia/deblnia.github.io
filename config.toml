@@ -13,7 +13,7 @@ paginatePath = "page"
 # googleAnalytics = ""
 
 # Copyright
-copyright = "© 2019 — Deblina Mukherjee — All rights reserved."
+copyright = "© 2019 — Deblina Mukherjee — No rights reserved."
 
 # Highlighting
 pygmentsCodefences = true
