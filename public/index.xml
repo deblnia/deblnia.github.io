@@ -6,11 +6,22 @@
     <description>Recent content in a concept:website on deblina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019 — Deblina Mukherjee — All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2020 — Deblina Mukherjee — No rights reserved.</copyright>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CS 152 Notes</title>
+      <link>/posts/2020/03/cs-152-notes/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/03/cs-152-notes/</guid>
+      <description>These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found here.
+Data Representation To convert to unsigned binary:
+ Number of places is number of bits, fill all with zeroes by default (every place has value of $2^n$ where $n$ is the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&#39;s place, and change to one Keep adding powers of two until you get to number  To convert to hex:</description>
+    </item>
     
     <item>
       <title>Introduction to Science Studies Notes</title>
@@ -52,15 +63,6 @@ Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278   
     </item>
     
     <item>
-      <title>a concept:academic work</title>
-      <link>/interests/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/interests/</guid>
-      <description>Working on it!</description>
-    </item>
-    
-    <item>
       <title>a concept:nonacademic</title>
       <link>/nonacademic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -75,7 +77,7 @@ Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278   
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>2019  Civic Tech Field Guide: Civic Data UChicago Open Data Project  2018  HP Avocado Index  </description>
+      <description>2020  Talk to Dog Bot  2019  Civic Tech Field Guide: Civic Data UChicago Open Data Project  2018  HP Avocado Index  </description>
     </item>
     
   </channel>
