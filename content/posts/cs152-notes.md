@@ -12,7 +12,7 @@ These are notes for the final exam in CS 152, taught by Diana Franklin. The code
 
 **To convert to unsigned binary:**
 
-  1. Number of places is number of bits, fill all with zeroes by default (every place has value of $2^n$ where $n$ is the place -- from the right, zero based indexing)
+  1. Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place -- from the right, zero based indexing)
   2. Find highest power of two that goes into decimal number 
   3. Go to that power's place, and change to one
   4. Keep adding powers of two until you get to number 

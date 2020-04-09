@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on deblina</title>
@@ -20,7 +20,7 @@
       <guid>/posts/2020/03/cs-152-notes/</guid>
       <description>These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found here.
 Data Representation To convert to unsigned binary:
- Number of places is number of bits, fill all with zeroes by default (every place has value of $2^n$ where $n$ is the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&#39;s place, and change to one Keep adding powers of two until you get to number  To convert to hex:</description>
+ Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&amp;rsquo;s place, and change to one Keep adding powers of two until you get to number   To convert to hex:</description>
     </item>
     
     <item>
@@ -30,9 +30,9 @@ Data Representation To convert to unsigned binary:
       
       <guid>/posts/2019/12/introduction-to-science-studies-notes/</guid>
       <description>The 16 readings here were the required ones featured on the exam.
-Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278   Early text in science studies — analyzing science as an institution, trying to identify norms.
-  Merton is an institutionalist (institutions in the sense of trust and behavior) — so studied science as a collection of internal rules and scripts (&amp;ldquo;norms&amp;rdquo;)
- Matthew effect Norms can be studied by sociologist    There are four main norms that constitute science: universalism, communism, disinterestedness, organized skepticism.</description>
+Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278  Early text in science studies — analyzing science as an institution, trying to identify norms.
+ Merton is an institutionalist (institutions in the sense of trust and behavior) — so studied science as a collection of internal rules and scripts (&amp;ldquo;norms&amp;rdquo;)
+ Matthew effect Norms can be studied by sociologist   There are four main norms that constitute science: universalism, communism, disinterestedness, organized skepticism.</description>
     </item>
     
   </channel>
