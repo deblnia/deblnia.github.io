@@ -19,8 +19,8 @@
       
       <guid>/posts/2020/03/cs-152-notes/</guid>
       <description>These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found here.
-Data Representation To convert to unsigned binary:
- Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&amp;rsquo;s place, and change to one Keep adding powers of two until you get to number   To convert to hex:</description>
+Data RepresentationTo convert to unsigned binary:
+Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place – from the right, zero based indexing)Find highest power of two that goes into decimal numberGo to that power’s place, and change to oneKeep adding powers of two until you get to numberTo convert to hex:</description>
     </item>
     
     <item>

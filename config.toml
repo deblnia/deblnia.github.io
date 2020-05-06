@@ -72,3 +72,23 @@ pygmentsStyle = "vs"
 [params]
   # Date format (default: Jan 2, 2006)
   # datefmt  = "Jan 2, 2006"
+
+#Markdown 
+[markup]
+  [markup.blackFriday]
+    angledQuotes = false
+    footnoteAnchorPrefix = ""
+    footnoteReturnLinkContents = ""
+    fractions = true
+    hrefTargetBlank = false
+    latexDashes = true
+    nofollowLinks = false
+    noreferrerLinks = false
+    plainIDAnchors = true
+    skipHTML = false
+    smartDashes = true
+    smartypants = true
+    smartypantsQuotesNBSP = false
+    taskLists = true
+
+
