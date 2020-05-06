@@ -2,4 +2,4 @@
 title: a concept:academic work
 ---
 
-Working on it!
+I'm mainly affiliated with the [Knowledge Lab](https://www.knowledgelab.org/), where I've been a research assistant since 2018. 
