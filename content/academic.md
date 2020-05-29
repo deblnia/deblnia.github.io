@@ -8,4 +8,4 @@ Current Projects:
 
 - [Programming Languages](https://www.knowledgelab.org/funding_opportunities/postdoctoral_position_in_how_programming_languages_shape_thought/) (w. Jerimiah Milbauer and James Evans)
 - [Genesweep](https://en.wikipedia.org/wiki/GeneSweep) (w. James Evans)
-- [The Emergence of Political Careers and Parties, New York 1777-1821](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2001930) (w. Benjamir Rohr and John Levi Martin)
+- [The Emergence of Political Careers and Parties, New York 1777-1821](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2001930) (w. Benjamin Rohr and John Levi Martin)
