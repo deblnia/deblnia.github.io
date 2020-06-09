@@ -100,13 +100,13 @@ This is a guide to the double-starred readings that will be on the exam.
 ###  Velthuis, O., 2003, “Symbolic meanings of prices. Constructing the value of contemporary art in Amsterdam and New York galleries,” Theory and Society 32:181-215
 
 - Arguing for a multiplicity of meanings in prices (not just signaling/profit as in econ, not just contaminating or corrosive as in humanities)
-
-|Nothing But   | Independent Spheres   |
-|---|---|
-| - Complicated because art dealers are price maximizers and not profit maximizers |  - Complicated because artworks of equal size within the oeuvre of one artist almost invariably have the same market price  |
-| - Econ holds unconditional commensurability of goods (no distinction between price and value -- "commodified conceptual scheme")  | - Bourdieu called the art market "a trade in which things have no price"  |
-|   |   - Humanist perspective grounded in Marxist conception of value -- "[the commodification of culture] stifles our critical faculties, induces alienation, degrades artworks, and protects the capitalist system against internal challenges"  |
-
+- Nothing But 
+  - Complicated because art dealers are price maximizers and not profit maximizers
+  - Econ holds unconditional commensurability of goods (no distinction between price and value -- "commodified conceptual scheme")
+- Independent Spheres 
+  - Complicated because artworks of equal size within the oeuvre of one artist almost invariably have the same market price
+  - Bourdieu called the art market "a trade in which things have no price"
+  - Humanist perspective grounded in Marxist conception of value -- "[the commodification of culture] stifles our critical faculties, induces alienation, degrades artworks, and protects the capitalist system against internal challenges" 
 - **Pricing is signifying act** 
   - Following Zelizer's work 
     - market for "sacred" goods (infused with non-market values and extra-economic logics that modify the alleged instrumental orientation of the market)
