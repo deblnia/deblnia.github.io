@@ -63,6 +63,10 @@ pygmentsStyle = "vs"
     url = "https://twitter.com/deblnia"
     name = "🐤"
     weight = 4
+  [[menu.footer]]
+    url = "https://reading.supply/@deblina"
+    name = "📕"
+    weight = 5
 
 
 # Links format
