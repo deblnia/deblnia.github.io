@@ -5,7 +5,7 @@ tags:
 title: On "On Self-Respect"
 ---
 
-I've read Joan Dideon's _On Self-Respect _so many times I can practically recite it. That is not enough times, apparently, to understand it. Here is a paragraph by paragraph analysis trying to remedy that. 
+I've read Joan Dideon's  _On Self-Respect _ so many times I can practically recite it. That is not enough times, apparently, to understand it. Here is a paragraph by paragraph analysis trying to remedy that. 
 
 > Once, in a dry season, I wrote in large letters across two pages of a notebook that innocence ends when one is stripped of the delusion that one likes oneself. Although now, some years later, I marvel that a mind on the outs with itself should have nonetheless made painstaking record of its every tremor, I recall with embarrassing clarity the flavor of those particular ashes. It was a matter of misplaced self-respect.
 
