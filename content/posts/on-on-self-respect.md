@@ -2,7 +2,7 @@
 date: "2020-06-17"
 tags:
 - bookshelf
-title: on "on self-respect"
+title: On "On Self-Respect"
 ---
 
 I've read Joan Dideon's _On Self-Respect _so many times I can practically recite it. That is not enough times, apparently, to understand it. Here is a paragraph by paragraph analysis trying to remedy that. 
