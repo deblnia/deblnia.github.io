@@ -3,6 +3,7 @@ title: a concept:projects
 ---
 
 ## 2020 
+- [Speedy Scholar](https://mynameisdeb-m.gitbook.io/deblina/)
 - [Talk to Dog Bot](https://twitter.com/talktodogbot)
 
 
