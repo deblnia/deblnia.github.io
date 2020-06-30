@@ -1,5 +1,5 @@
 ---
-date: "2020-06-17"
+date: "2020-06-30"
 tags:
 - fragments
 title: Speedy Scholar
