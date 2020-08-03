@@ -12,6 +12,10 @@ paginatePath = "page"
 # Google analytics
 # googleAnalytics = ""
 
+# Emojis
+enableEmoji = true
+
+
 # Copyright
 copyright = "© 2020 — Deblina Mukherjee — No rights reserved."
 
