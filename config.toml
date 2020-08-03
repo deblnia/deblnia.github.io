@@ -6,7 +6,7 @@ languageCode = "en-us"
 theme = "simple-hugo-theme"
 
 # Pagination
-paginate = 3
+paginate = 5
 paginatePath = "page"
 
 # Google analytics
