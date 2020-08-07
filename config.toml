@@ -56,16 +56,16 @@ pygmentsStyle = "vs"
     name = "⌨️"
     weight = 1
   [[menu.footer]]
-    url = "/posts/index.xml"
-    name = "📢"
+    url = "https://codepen.io/deblnia"
+    name = "🖊️"
     weight = 2
   [[menu.footer]]
-    url = "mailto:deblina@uchicago.edu"
-    name = "📧"
+    url = "https://twitter.com/deblnia"
+    name = "🐥"
     weight = 3
   [[menu.footer]]
-    url = "https://twitter.com/deblnia"
-    name = "🐤"
+    url = "/posts/index.xml"
+    name = "🗞️"
     weight = 4
 
 
