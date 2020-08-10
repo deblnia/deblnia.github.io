@@ -116,6 +116,16 @@ Current Projects:
     </item>
     
     <item>
+      <title>a concept:colophon</title>
+      <link>/colophon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/colophon/</guid>
+      <description>This website is a collection of markdown files stored in a Github repository, and deployed via Netlify using Hugo and R&#39;s blogdown package. It collects no analytics. If you don&#39;t tell me, I will never know you were here.
+The design is forked from bettermotherfuckingwebsite.com, which is a project that originated with @drew_mc. It is 7 CSS declarations and uses your browser&#39;s default accent colors and serif font. The font color is #444.</description>
+    </item>
+    
+    <item>
       <title>a concept:nonacademic work</title>
       <link>/nonacademic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

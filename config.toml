@@ -65,8 +65,7 @@ pygmentsStyle = "vs"
     weight = 3
   [[menu.footer]]
     url = "/posts/index.xml"
-    name = "🗞️"
-    weight = 4
+    name = "⌨️"
 
 
 # Links format
