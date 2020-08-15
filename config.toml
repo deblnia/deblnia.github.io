@@ -53,19 +53,19 @@ pygmentsStyle = "vs"
   # Footer
   [[menu.footer]]
     url = "https://github.com/deblnia"
-    name = "⌨️"
+    name = "gh"
     weight = 1
   [[menu.footer]]
     url = "https://codepen.io/deblnia"
-    name = "🖊️"
+    name = "cp"
     weight = 2
   [[menu.footer]]
     url = "https://twitter.com/deblnia"
-    name = "🐥"
+    name = "tw"
     weight = 3
   [[menu.footer]]
     url = "/posts/index.xml"
-    name = "⌨️"
+    name = "fd"
 
 
 # Links format
