@@ -65,6 +65,7 @@ pygmentsStyle = "vs"
     weight = 3
   [[menu.footer]]
     url = "/posts/index.xml"
+    weight = 4
     name = "fd"
 
 
