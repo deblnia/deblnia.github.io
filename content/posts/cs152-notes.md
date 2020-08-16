@@ -6,7 +6,7 @@ tags:
 title: CS 152 Notes 
 ---
 
-These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found [here](https://github.com/deblnia/CS152). 
+These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found <a href = "https://github.com/deblnia/CS152" target = "_blank">here</a>. 
 
 #### Data Representation
 
@@ -34,7 +34,7 @@ These are notes for the final exam in CS 152, taught by Diana Franklin. The code
 - `<<` is bitwise shift left 
 - `>>` is bitwise shift right 
 
-[_Always used with binary._](https://www.learn-c.org/en/Bitmasks)
+<a href = "https://www.learn-c.org/en/Bitmasks" target = "_blank">Always used with binary.</a>
 
 #### Data Structures: 
 
@@ -122,7 +122,7 @@ functions carefully, we can assure that the expected time for each operations is
     - order property: all heaps are ordered in a way where there is a clear relationship (min/max, commonly) between every group of parent and children nodes 
     - structure property: all heaps are complete trees (or almost complete), which is to say that insertion is done left to right on the leaf nodes 
 - Binary heaps are usually implemented as BSTs, but are also a maximally efficient implementation of the priorty queue abstract data type. 
-  - A binary heap is [implemented in an array](https://www.geeksforgeeks.org/array-representation-of-binary-heap/) using the following formulas: 
+  - A binary heap is <a href = "https://www.geeksforgeeks.org/array-representation-of-binary-heap/" target = "_blank">implemented in an array </a> using the following formulas: 
     - `Arr[0]` is the root node 
     For any other node, `Arr[i]`: 
       - `Arr[(i-1)/2]` returns the parent node 

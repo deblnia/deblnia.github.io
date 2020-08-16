@@ -3,12 +3,12 @@ title: a concept:projects
 ---
 
 ## 2020 
-- [Speedy Scholar](https://deblnia.github.io/speedyscholar/)
-- [Talk to Dog Bot](https://twitter.com/talktodogbot)
+- <a href="https://deblnia.github.io/speedyscholar/" target="_blank">Speedy Scholar</a>
+- <a href="https://twitter.com/talktodogbot" target="_blank">Talk to Dog Bot</a>
 
 
 ## 2019 
-- [Civic Tech Field Guide: Civic Data](https://civictech.guide/civic-data/) 
+- <a href="https://civictech.guide/civic-data/" target="_blank">Civic Tech Field Guide: Civic Data</a>
 
 ## 2018 
-- [HP Avocado Index](https://twitter.com/hpavocadoprice?lang=en)
+- <a href="https://twitter.com/hpavocadoprice?lang=en" target="_blank">HP Avocado Index</a>

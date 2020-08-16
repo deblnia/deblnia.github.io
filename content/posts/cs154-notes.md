@@ -6,7 +6,7 @@ tags:
 title: CS 154 Notes
 ---
 
-These are notes for CS 154, taught by Yanjing Li, Junchen Jiang, and Haryadi Gunawi. The code for the class can be found [here](https://github.com/deblnia/CS154).
+These are notes for CS 154, taught by Yanjing Li, Junchen Jiang, and Haryadi Gunawi. The code for the class can be found <a href = "https://github.com/deblnia/CS154" target = "_blank">here</a>.
 
 ## Lecture 21: Synchronization 
 
