@@ -3,6 +3,7 @@ title: a concept:nonacademic work
 ---
 ## 2020
 - <a href = "https://illinoisnewsroom.org/2020/02/11/lack-of-access-long-waitlists-education-in-illinois-prisons/" target = "_blank"> Lack of Access, Long Waitlists: Education in Illinois Prisons </a> [Southside Weekly, print edition data visualizations. Feburary.] 
+
 ## 2019 
 - <a href = "https://chicagoshadydealer.com/index.php/2019/11/23/uchicago-wifi-ranked-333333333-by-us-news-and-world-report/" target = "_blank"> UChicago Wifi Ranked #333,333,333 by US News and World Report </a> [Chicago Shady Dealer. November.]
 - <a href = "https://civichall.org/civicist/civic-tech-action-using-ai-help-build-radical-health-solution/" target = "_blank"> Civic Tech in Action </a> [Civicist. October.]
