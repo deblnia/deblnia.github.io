@@ -1,3 +1,7 @@
+:root {
+  --mainColor: #DCDCDC;
+}
+
 body {
     margin: 40px auto;
     max-width: 650px;
@@ -49,3 +53,22 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+a {
+  background:
+     linear-gradient(
+       to bottom, var(--mainColor) 0%,
+       var(--mainColor) 100%
+     );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+  color: #000;
+  text-decoration: none;
+  transition: background-size .2s;
+}
+
+a:hover {
+  background-size: 4px 50px;
+}
+
