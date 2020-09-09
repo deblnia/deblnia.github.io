@@ -13,13 +13,14 @@
     
     
     <item>
-      <title>SCP</title>
-      <link>/posts/2020/07/scp/</link>
+      <title>My 5 Favorite Shell Commands</title>
+      <link>/posts/2020/07/my-5-favorite-shell-commands/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/07/scp/</guid>
-      <description>Speedy Scholar is a just-barely-modified fork of Ayman Nadeem&#39;s original open-source project. You can tell it&#39;s a fork because I used the same platform to deploy it (gitbooks) and because I haven&#39;t yet taken out the CS papers that were originally there. I&#39;ll do it eventually.
-In case Ayman reads this (unlikely), I should just note that I love the idea of open-source summaries of academic articles. Her book is gorgeous, and if she wants to hang out, I am free on Thursday and she could contact me to hang out on Thursday when I am free.</description>
+      <guid>/posts/2020/07/my-5-favorite-shell-commands/</guid>
+      <description>  scp
+  ls -altr | xargs grep &amp;quot;[PHRASE]&amp;quot;
+     </description>
     </item>
     
     <item>
