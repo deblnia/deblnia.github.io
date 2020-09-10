@@ -53,4 +53,3 @@ These are notes for CS 154, taught by Yanjing Li, Junchen Jiang, and Haryadi Gun
 ## Lecture # 19: Dynamic Memory Allocation 
 
 - Manage free blocks through implicit list (linking all blocks) or explicit list (linking free blocks using pointers)
-- 

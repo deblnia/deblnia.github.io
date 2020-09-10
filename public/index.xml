@@ -20,7 +20,9 @@
       <guid>/posts/2020/07/my-5-favorite-shell-commands/</guid>
       <description>  scp
   ls -altr | xargs grep &amp;quot;[PHRASE]&amp;quot;
-     </description>
+  git log --graph --oneline --decorate --all
+  tree
+   </description>
     </item>
     
     <item>
