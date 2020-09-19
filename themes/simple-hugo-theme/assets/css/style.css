@@ -46,6 +46,11 @@ div.last-update {
   font-size: 8px;
 }
 
+div.colo {
+  text-align: left;
+  font-size: 8px;
+}
+
 div.footer {
     border-top: 1px solid;
     text-align: center;
