@@ -41,16 +41,6 @@ ul.pagination > li {
     display: inline-block;
 }
 
-div.last-update {
-  text-align: right;
-  font-size: 8px;
-}
-
-div.colo {
-  text-align: left;
-  font-size: 8px;
-}
-
 div.footer {
     border-top: 1px solid;
     text-align: center;
