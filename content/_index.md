@@ -8,4 +8,4 @@ I spent the past two summers as a data scientist intern at <a href="https://www.
 
 Currently, I am half the EIC of the <a href="https://chicagoshadydealer.com/" target="_blank">Chicago Shady Dealer</a>, a member of <a href="http://occam.uchicago.edu/" target="_blank">Occam's Razor</a>, and the founder of <a href="https://github.com/UCOpenData" target="_blank">UChicago's Open Data Project</a>. In the ‘20-21 academic year, I’ll be the Civic Engagement Chair on the IOP’s <a href="http://politics.uchicago.edu/pages/student-leaders" target="_blank">Student Advisory Board</a>. 
 
-Read about how this site was built [here](/colophon.md). 
+Read about how this site was built [here](/colophon/). 
