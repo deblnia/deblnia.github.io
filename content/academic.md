@@ -2,7 +2,7 @@
 title: a concept:academic work
 ---
 
-I'm mainly affiliated with the <a href="https://www.knowledgelab.org/" target="_blank">Knowledge Lab</a>, where I've been a research assistant since 2018. My research has been supported by the <a href="https://ccrf.uchicago.edu/undergraduate-research/crassh-research-scholars" target="_blank">CRASSH Scholars Program</a>, and a micro-Metcalf grant. 
+I'm mainly affiliated with the <a href="https://www.knowledgelab.org/people/detail/deblina_mukherjee/" target="_blank">Knowledge Lab</a>, where I've been a research assistant since 2018. My research has been supported by the <a href="https://ccrf.uchicago.edu/undergraduate-research/crassh-research-scholars" target="_blank">CRASSH Scholars Program</a>, and a micro-Metcalf grant. 
 
 ## Ongoing Projects: 
 
