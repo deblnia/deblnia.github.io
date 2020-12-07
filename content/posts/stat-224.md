@@ -1,6 +1,5 @@
 ---
 date: "2020-12-05"
-draft: true
 tags:
 - uchicago
 - notes
