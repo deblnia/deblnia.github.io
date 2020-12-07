@@ -10,25 +10,27 @@ title: STAT 224 Notes
 These are notes for STAT 224: Applied Regression Analysis, taught by James Dignam. 
 
 
-## Lecture 2 
-
-
 ## Lecture 3 
 
+- Inference tests test the importance of the predictor 
 
-## Lecture 4 
 
+## Lecture 4
+
+- Can do all the regular things (confidence intervals, etc) to $\beta$s 
+- $R^2$ is a measure of explained variation
 
 ## Lecture 5 
 
 - MLR is regression with many predictors 
-- Coefficients are one unit change holding all other predictors constant 
-- 
+- Coefficients are one unit change holding all other predictors constant
 
 
 ## Lecture 6 
 
 - F-Test tests whether all the coefficients are simultaneously 0 
+- Standardized residuals residuals have mean 0 and variance 1 and are dependent also 
+- Internally studentized residuals are approx. normal and have mean 0 and variance 1
 
 
 ## Lecture 7 
