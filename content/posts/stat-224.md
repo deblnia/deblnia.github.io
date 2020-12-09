@@ -103,7 +103,7 @@ These are notes for STAT 224: Applied Regression Analysis, taught by James Digna
   - A $\beta$ has opposite sign than expected 
   - General instability in estimates 
   - Large standard errors 
-- Variance Inflation Factor (VIF), where J is a predictor \[\text{VIF} = \frac{1}{1-R_j^2}\]
+- Variance Inflation Factor (VIF), where J is a predictor $$\text{VIF} = \frac{1}{1-R_j^2}$$
   - Greater than 10 is multicollinear by convention 
 - What to do: 
   - Get more / better data 
