@@ -3,6 +3,7 @@ title: a concept:projects
 ---
 
 ## 2020 
+- <a href = "https://twitter.com/petebutbot" target="_blank"> Pete Botigieg </a> 
 - <a href="https://reboothq.substack.com/" target="_blank">Reboot 2.0</a>
 - <a href="https://deblnia.github.io/speedyscholar/" target="_blank">Speedy Scholar</a>
 - <a href="https://twitter.com/talktodogbot" target="_blank">Talk to Dog Bot</a>
