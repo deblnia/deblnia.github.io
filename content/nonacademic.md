@@ -2,6 +2,7 @@
 title: a concept:nonacademic work
 ---
 ## 2020
+- <a href = "https://reboothq.substack.com/p/adriandaub" target = "_blank"> What Tech Calls Thinking Review </a> [Reboot. November.] 
 - <a href = "https://illinoisnewsroom.org/2020/02/11/lack-of-access-long-waitlists-education-in-illinois-prisons/" target = "_blank"> Lack of Access, Long Waitlists: Education in Illinois Prisons </a> [Southside Weekly, print edition data visualizations. Feburary.] 
 
 ## 2019 
