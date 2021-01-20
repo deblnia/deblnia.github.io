@@ -2,6 +2,7 @@
 title: a concept:nonacademic work
 ---
 ## 2020
+- <a href = "https://tinyletter.com/data-is-plural/letters/data-is-plural-2020-12-23-edition" target = "_blank"> Social Scientists Testifying </a> [Data is Plural. December.] 
 - <a href = "https://reboothq.substack.com/p/adriandaub" target = "_blank"> Our Take: Tech Gets a Culture Critique </a> [Reboot. November.] 
 - <a href = "https://illinoisnewsroom.org/2020/02/11/lack-of-access-long-waitlists-education-in-illinois-prisons/" target = "_blank"> Lack of Access, Long Waitlists: Education in Illinois Prisons </a> [Southside Weekly, print edition data visualizations. Feburary.] 
 
