@@ -60,7 +60,7 @@ pygmentsStyle = "vs"
     name = "tw"
     weight = 2
    [[menu.footer]]
-    url = "mailto:deblinamukherjee@protonmail.com"
+    url = "mailto:deblina@uchicago.edu"
     name = "em"
     weight = 3
   [[menu.footer]]
