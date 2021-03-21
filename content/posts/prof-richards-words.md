@@ -1,6 +1,5 @@
 ---
 date: 2021-03-21
-draft: true
 tags:
 - fragments
 title: Professor Richards' Words to Distinguish
