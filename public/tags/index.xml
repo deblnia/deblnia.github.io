@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on deblina</title>
-    <link>/tags/</link>
+    <link>https://deblnia.net/tags/</link>
     <description>Recent content in Tags on deblina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2020 — Deblina Mukherjee — No rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2021 — Deblina Mukherjee — No rights reserved.</copyright>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deblnia.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>fragments</title>
+      <link>https://deblnia.net/tags/fragments/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://deblnia.net/tags/fragments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>notes</title>
-      <link>/tags/notes/</link>
+      <link>https://deblnia.net/tags/notes/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/notes/</guid>
+      <guid>https://deblnia.net/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uchicago</title>
-      <link>/tags/uchicago/</link>
+      <link>https://deblnia.net/tags/uchicago/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/uchicago/</guid>
+      <guid>https://deblnia.net/tags/uchicago/</guid>
       <description></description>
     </item>
     
