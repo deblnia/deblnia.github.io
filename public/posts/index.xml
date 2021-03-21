@@ -7,22 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 — Deblina Mukherjee — No rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My 5 Favorite Shell Commands</title>
-      <link>/posts/2020/07/my-5-favorite-shell-commands/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <title>STAT 224 Notes</title>
+      <link>/posts/2020/12/stat-224-notes/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/07/my-5-favorite-shell-commands/</guid>
-      <description>  scp
-  ls -altr | xargs grep &amp;quot;[PHRASE]&amp;quot;
-  git log --graph --oneline --decorate --all
-  tree
-   </description>
+      <guid>/posts/2020/12/stat-224-notes/</guid>
+      <description>These are notes for STAT 224: Applied Regression Analysis, taught by James Dignam.
+Lecture 3  Inference tests test the importance of the predictor  Lecture 4  Can do all the regular things (confidence intervals, etc) to $\beta$s $R^2$ is a measure of explained variation  Lecture 5  MLR is regression with many predictors Coefficients are one unit change holding all other predictors constant  Lecture 6  F-Test tests whether all the coefficients are simultaneously 0 Standardized residuals residuals have mean 0 and variance 1 and are dependent also Internally studentized residuals are approx.</description>
     </item>
     
     <item>
@@ -33,25 +30,6 @@
       <guid>/posts/2020/06/cs-154-notes/</guid>
       <description>These are notes for CS 154, taught by Yanjing Li, Junchen Jiang, and Haryadi Gunawi. The code for the class can be found here.
 Lecture 21: Synchronization  Each thread’s program counter points to a different address in the same code segment All threads share data and heap  Data = all static and global variables Heap = malloc’d and dynamically allocated data   Pass by Reference into Main Stack dangerous =&amp;gt; can lead to read / write conflict Think about shared variables and atomicity in concurrency  Which variables are shared?</description>
-    </item>
-    
-    <item>
-      <title>History of Statistics Notes</title>
-      <link>/posts/2020/06/history-of-statistics-notes/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/06/history-of-statistics-notes/</guid>
-      <description>These are notes for History of Statistics, taught by Stephen Stigler.
-Boscovich Method  Estimates the parameters of a linear model   Calculate means for each column, and make new column that is [EXISISTING_COL] - [COLS MEAN] Add r (slope) column using the following formula: (Y - Y_MEAN)/ (X - X_MEAN)   This is just the division of the original columns and the column created in step 2  Add d column which is ABSOLUTE_VALUE((X - X_MEAN)) Rank the r colum n such that the largest value has rank 1 Calculate two variables: t = d/2 and h = t/2 Start summing ds by rank, starting with the largest (i.</description>
-    </item>
-    
-    <item>
-      <title>Legal Research and Writing Seminar Notes</title>
-      <link>/posts/2020/05/legal-research-and-writing-seminar-notes/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/05/legal-research-and-writing-seminar-notes/</guid>
-      <description></description>
     </item>
     
     <item>

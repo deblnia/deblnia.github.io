@@ -2,6 +2,13 @@
   --mainColor: /*#fef390*//*#DCDCDC*/rgba(245,215,110,0.5);
 }
 
+*::selection {
+  background: --mainColor; /* WebKit/Blink Browsers */
+}
+*::-moz-selection {
+  background: --mainColor; /* Gecko Browsers */
+}
+
 body {
     margin: 40px auto;
     max-width: 650px;
