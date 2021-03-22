@@ -1,7 +1,7 @@
 ---
 date: 2021-03-21
 tags:
-- fragments
+- uchicago
 title: Professor Richards' Words to Distinguish
 ---
 
