@@ -2,6 +2,9 @@
 title: a concept:projects
 ---
 
+## 2021 
+- <a href = "https://genesweep.netlify.app/" target="_blank"> Genesweep, Scrollytold </a> 
+
 ## 2020 
 - <a href = "https://twitter.com/petebutbot" target="_blank"> Pete Botigieg </a> 
 - <a href="https://reboothq.substack.com/" target="_blank">Reboot 2.0</a>
