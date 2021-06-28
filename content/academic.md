@@ -6,9 +6,17 @@ I'm mainly affiliated with the <a href="https://www.knowledgelab.org/people/deta
 
 ## Ongoing Projects: 
 
-- <a href="https://www.knowledgelab.org/funding_opportunities/postdoctoral_position_in_how_programming_languages_shape_thought/" target="_blank">Programming Languages</a> (w. Jerimiah Milbauer and James Evans)
+- <a href="https://www.knowledgelab.org/funding_opportunities/postdoctoral_position_in_how_programming_languages_shape_thought/" target="_blank">Programming Languages</a> (w. Jerimiah Milbauer, Yutao Chen, and James Evans)
 - <a href="https://en.wikipedia.org/wiki/GeneSweep" target="_blank">Genesweep</a> (w. James Evans)
 - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2001930" target="_blank">The Emergence of Political Careers and Parties, New York 1777-1821</a> (w. Benjamin Rohr and John Levi Martin)
+
+## Talks and Presentations 
+
+- Milbauer, Jerimiah, Chen, Yutao, Mukherjee, Deblina and Evans, James A. 2021. "Representing Repositories in the Open-Source Ecosystem." _Poster presented at <a href="https://ic2s2-2021.ethz.ch/" target="_blank">IC2S2</a>, ETH Zurich (online)_. 
+
+## Teaching 
+
+- Teaching Assistant for <a href="https://cfss.uchicago.edu/" target="_blank"> SOCI 30500: Computing for the Social Sciences </a>. [Spring 2019, Spring 2020, Fall 2020, Winter 2021.]
 
 ## Conferences: 
 
