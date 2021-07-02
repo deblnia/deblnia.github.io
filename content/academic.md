@@ -12,7 +12,7 @@ I'm mainly affiliated with the <a href="https://www.knowledgelab.org/people/deta
 
 ## Talks and Presentations 
 
-- Milbauer, Jerimiah, Chen, Yutao, Mukherjee, Deblina and Evans, James A. 2021. "Representing Repositories in the Open-Source Ecosystem." Poster presented at <a href="https://ic2s2-2021.ethz.ch/" target="_blank">IC2S2</a>, ETH Zurich (online). 
+- Milbauer J., Chen Y., Mukherjee D., and Evans J. A. 2021. "Representing Repositories in the Open-Source Ecosystem." Poster presented at <a href="https://ic2s2-2021.ethz.ch/" target="_blank">IC2S2</a>, ETH Zurich (online). 
 
 ## Teaching 
 
