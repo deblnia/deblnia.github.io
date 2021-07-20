@@ -59,17 +59,13 @@ pygmentsStyle = "vs"
     url = "https://twitter.com/deblnia"
     name = "tw"
     weight = 2
-  [[menu.footer]]
-    url = "https://www.are.na/deblina-mukherjee"
-    name = "ar"
-    weight = 3
    [[menu.footer]]
     url = "mailto:deblina@uchicago.edu"
     name = "em"
-    weight = 4
+    weight = 3
   [[menu.footer]]
     url = "/posts/index.xml"
-    weight = 5
+    weight = 4
     name = "fd"
 
 
