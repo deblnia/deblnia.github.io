@@ -3,6 +3,7 @@ title: a concept:projects
 ---
 
 ## 2021 
+- <a href = "https://deblnia.github.io/gym-calculator/" target="_blank"> A Dumb Little Gym Calculator </a> 
 - <a href = "https://genesweep.netlify.app/" target="_blank"> Genesweep, Scrollytold </a> 
 
 ## 2020 

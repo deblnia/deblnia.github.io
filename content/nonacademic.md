@@ -1,6 +1,11 @@
 ---
 title: a concept:nonacademic work
 ---
+
+## 2021 
+
+- <a href = "https://reboothq.substack.com/p/nontech?utm_source=url" target = "_blank"> Our Best Non-Tech Recs </a> [Reboot. September.] 
+
 ## 2020
 - <a href = "https://tinyletter.com/data-is-plural/letters/data-is-plural-2020-12-23-edition" target = "_blank"> Social Scientists Testifying </a> [Data is Plural. December.] 
 - <a href = "https://reboothq.substack.com/p/adriandaub" target = "_blank"> Our Take: Tech Gets a Culture Critique </a> [Reboot. November.] 
