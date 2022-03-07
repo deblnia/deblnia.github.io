@@ -1,6 +1,9 @@
 ---
 title: a concept:nonacademic work
 ---
+## 2022
+
+- <a href = "https://reboothq.substack.com/p/bruckman?s=r" target = "_blank"> Should You Believe Wikipedia? </a> [Reboot. February.] 
 
 ## 2021 
 
