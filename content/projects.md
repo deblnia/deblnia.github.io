@@ -2,6 +2,7 @@
 title: a concept:projects
 ---
 ## 2022
+- <a href = "https://www.kernelmag.io/" target="_blank"> Kernel Magazine </a> (w. <a href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao </a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan </a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun </a>)
 - <a href = "https://deblnia.github.io/breath-counter/" target="_blank"> Breath Counter </a>
 
 ## 2021
