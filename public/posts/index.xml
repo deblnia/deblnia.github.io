@@ -2,52 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on deblina</title>
-    <link>https://deblnia.net/posts/</link>
+    <link>https://deblina.net/posts/</link>
     <description>Recent content in Posts on deblina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2021 — Deblina Mukherjee — No rights reserved.</copyright>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2022 — Deblina Mukherjee — No rights reserved.</copyright>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://deblnia.net/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deblina.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Making Mad-Libs</title>
+      <link>https://deblina.net/posts/2021/05/making-mad-libs/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://deblina.net/posts/2021/05/making-mad-libs/</guid>
+      <description>We played with an write-your-own-article / Mad-libs format a couple times of times at the The Dealer this year &amp;ndash; see examples here and here &amp;ndash; and it&#39;s really nice illustration of basic jQuery functionality. This is a small tutorial of the code behind those articles. Major credits to R.E. for pioneering the form.
+A run-of-the-mill input is pretty straight forward in HTML. (In the Dealer&#39;s Wordpress backend, you can write HTML using the text tab on the classic editor.</description>
+    </item>
+    
+    <item>
       <title>Professor Richards&#39; Words to Distinguish</title>
-      <link>https://deblnia.net/posts/2021/03/professor-richards-words-to-distinguish/</link>
+      <link>https://deblina.net/posts/2021/03/professor-richards-words-to-distinguish/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://deblnia.net/posts/2021/03/professor-richards-words-to-distinguish/</guid>
+      <guid>https://deblina.net/posts/2021/03/professor-richards-words-to-distinguish/</guid>
       <description>In his syllabus for the Winter 2021 edition of the History and Philosophy of Science II (Late Renaissance through the Enlightenment), Professor Robert Richards made note of some commonly confused word pairs.
 Refute vs Rebut  To refute is to actually prove something isn&#39;t true To rebut is to try and prove something isn&#39;t true  Comprise vs compose  To comprise is to include or contain To compose means to make up or form the basis of  The whole comprises the elements or parts, and the elements or parts compose the whole.</description>
     </item>
     
     <item>
       <title>STAT 224 Notes</title>
-      <link>https://deblnia.net/posts/2020/12/stat-224-notes/</link>
+      <link>https://deblina.net/posts/2020/12/stat-224-notes/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://deblnia.net/posts/2020/12/stat-224-notes/</guid>
+      <guid>https://deblina.net/posts/2020/12/stat-224-notes/</guid>
       <description>These are notes for STAT 224: Applied Regression Analysis, taught by James Dignam.
 Lecture 3  Inference tests test the importance of the predictor  Lecture 4  Can do all the regular things (confidence intervals, etc) to $\beta$s $R^2$ is a measure of explained variation  Lecture 5  MLR is regression with many predictors Coefficients are one unit change holding all other predictors constant  Lecture 6  F-Test tests whether all the coefficients are simultaneously 0 Standardized residuals residuals have mean 0 and variance 1 and are dependent also Internally studentized residuals are approx.</description>
     </item>
     
     <item>
       <title>Maverick Markets Notes</title>
-      <link>https://deblnia.net/posts/2020/04/maverick-markets-notes/</link>
+      <link>https://deblina.net/posts/2020/04/maverick-markets-notes/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://deblnia.net/posts/2020/04/maverick-markets-notes/</guid>
+      <guid>https://deblina.net/posts/2020/04/maverick-markets-notes/</guid>
       <description>This is a guide to the double-starred readings that will be on the exam.
 Hirschman, A., 1986, Rival Views of Market Society and Other Recent Essays. New York: Viking ch.5: Rival Views of Market Society, pp. 105-41  Covers different organizations of economy:  Subsistence Fuedal Capitalism   Interpretation and evaluation of capitalism is historically contingent  &amp;ldquo;The idea that the social order &amp;ndash; intermediate between the fortituitous and the unchangeable &amp;ndash; may be an important cause of human unhappiness became widespread only in the modern age&amp;rdquo; (105) Idea of changing social order to increase happiness is modern Coincides with idea that human actions can have unintended consequences Arguments rooted in existance Precedence of embededness Capitalism evocative (simple models implausible) Response based/dialectec transformation theory   The Doux-Commerce Thesis: commerce is a civiling agent of considerable power and range  According to Hume and Smith, fosters industriousness and assiduity, frugality, punctuality, and probity) Market becomes cetral positon for the satisfaction of human wants   The Self-Destruction Thesis: capitalist society tends to undermine moral foundations on which society must rest  Appeals to individual self-interest over collective interest (Capitalism has within it the seeds of its own destruction) Capitalism throttles all other institutions (commodifies everything)   Eclipse of the doux-commerce thesis  Doux-commerce questioned and set aside in the latte rpart of the 18th century (industrialism wreaked havoc) Durkheim appears to generate a neo-doux commerce thesis, but is aware that any esnse of harmony generated by the division labor was an unintended consequence (superficial at best)   The Fuedal Shackles Thesis  Contends that the capitalist revolution was never finished, left hanging as bourgeoisie market-bearers bowed to the demands of aristocrats and traditional authority figures Less than fully mature capitalist system (peripheral nations from World Systems theory &amp;ndash; these theorists will try and explain why capitalism never matured) American exceptionalism: America came into being without the confines of a feudal past (also a curse according to Hartz &amp;ndash; less ideological diversity)   This is a survey of different conceptions of capitalism &amp;ndash; a coherant but complex analytic (tableau ideologique)  Granovetter, M.</description>
     </item>
     
     <item>
       <title>CS 152 Notes</title>
-      <link>https://deblnia.net/posts/2020/03/cs-152-notes/</link>
+      <link>https://deblina.net/posts/2020/03/cs-152-notes/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://deblnia.net/posts/2020/03/cs-152-notes/</guid>
+      <guid>https://deblina.net/posts/2020/03/cs-152-notes/</guid>
       <description>These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found here.
 Data Representation To convert to unsigned binary:
  Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&#39;s place, and change to one Keep adding powers of two until you get to number  To convert to hex:</description>
@@ -55,10 +65,10 @@ Data Representation To convert to unsigned binary:
     
     <item>
       <title>Introduction to Science Studies Notes</title>
-      <link>https://deblnia.net/posts/2019/12/introduction-to-science-studies-notes/</link>
+      <link>https://deblina.net/posts/2019/12/introduction-to-science-studies-notes/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://deblnia.net/posts/2019/12/introduction-to-science-studies-notes/</guid>
+      <guid>https://deblina.net/posts/2019/12/introduction-to-science-studies-notes/</guid>
       <description>The 16 readings here were the required ones featured on the exam.
 Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278   Early text in science studies — analyzing science as an institution, trying to identify norms.
   Merton is an institutionalist (institutions in the sense of trust and behavior) — so studied science as a collection of internal rules and scripts (&amp;ldquo;norms&amp;rdquo;)
