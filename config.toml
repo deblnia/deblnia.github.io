@@ -52,21 +52,25 @@ pygmentsStyle = "vs"
 
   # Footer
   [[menu.footer]]
+    url = "https://www.are.na/deblina-mukherjee/"
+    name = "ar"
+    weight = 1
+  [[menu.footer]]
+    url = "mailto:deblina@uchicago.edu"
+    name = "em"
+    weight = 2
+  [[menu.footer]]
+    url = "/posts/index.xml"
+    name = "fd"
+    weight = 3
+   [[menu.footer]]
     url = "https://github.com/deblnia"
     name = "gh"
-    weight = 1
+    weight = 4
   [[menu.footer]]
     url = "https://twitter.com/deblnia"
     name = "tw"
-    weight = 2
-   [[menu.footer]]
-    url = "mailto:deblina@uchicago.edu"
-    name = "em"
-    weight = 3
-  [[menu.footer]]
-    url = "/posts/index.xml"
-    weight = 4
-    name = "fd"
+    weight = 5
 
 
 # Links format
