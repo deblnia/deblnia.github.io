@@ -10,12 +10,3 @@ document.addEventListener('DOMContentLoaded', function(e) {
     while (a.length > 0) h.removeAttribute(a[0].name);
   }
 });
-
-(function() {
-  var links = document.getElementsByTagName('a');
-  for (var i = 0; i < links.length; i++) {
-    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
-      links[i].target = '_blank';
-    }
-  }
-})();

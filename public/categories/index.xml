@@ -6,10 +6,7 @@
     <description>Recent content in Categories on deblina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022 — Deblina Mukherjee — No rights reserved.</copyright>
-    
-	<atom:link href="https://deblina.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright> 2023 — Deblina Mukherjee — No rights reserved.</copyright>
+    <atom:link href="https://deblina.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
