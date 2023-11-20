@@ -65,7 +65,7 @@ Matthew effect Norms can be studied by sociologist There are four main norms tha
       <link>https://deblina.net/colophon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/colophon/</guid>
-      <description>This website is a collection of markdown files stored in a Github repository, and deployed via Netlify using Hugo and R&amp;rsquo;s blogdown package. I bought the domain name from Google Domains for $12/year. This site collects no analytics. If you don&amp;rsquo;t tell me, I will never know you were here.
+      <description>This website is a collection of markdown files stored in a public Github repository, and deployed via Netlify using Hugo and R&amp;rsquo;s blogdown package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using my 13&amp;quot; Mac Book Pro.
 The design is forked from bettermotherfuckingwebsite.com. It is 7 CSS declarations and uses your browser&amp;rsquo;s default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.</description>
     </item>
     <item>
@@ -73,14 +73,14 @@ The design is forked from bettermotherfuckingwebsite.com. It is 7 CSS declaratio
       <link>https://deblina.net/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/news/</guid>
-      <description></description>
+      <description>2023 I attended MIT&amp;rsquo;s Conference on Digital Experimentation (CODE) [November 2023] 2021 Jermiah Milbauer, Yutao Chen , James Evans, and I are presenting our poster &amp;ldquo;Representing Repositories in the Open-Source Ecosystem&amp;rdquo; at ETH Zurich&amp;rsquo;s IC2S2, online. I&amp;rsquo;ll be attending SRCCON . [August, 2021.] I graduated! In my last year at school, I was the Civic Engagement Chair on the IOP&amp;rsquo;s Student Advisory Board , the chair of UChicago Student Government&amp;rsquo;s Technology committee, and founded UChicago&amp;rsquo;s Open Data Project.</description>
     </item>
     <item>
       <title>a concept:work</title>
       <link>https://deblina.net/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/work/</guid>
-      <description>2022 Kernel Magazine (w. Ivan Zhao , Maggie Pan , and Matthew Sun ) Breath Counter 2021 A Dumb Little Gym Calculator Genesweep, Scrollytold 2020 Pete Botigieg Reboot 2.0 Speedy Scholar Talk to Dog Bot 2019 Civic Tech Field Guide: Civic Data 2018 HP Avocado Index </description>
+      <description>2022 Kernel Magazine (w. Ivan Zhao , Maggie Pan , and Matthew Sun ) Breath Counter Our Best Non-Tech Recs [Reboot. September.] Replies To: Towards Ineffective Altruism [Reboot. June.] Should You Believe Wikipedia? [Reboot. February.] 2021 A Dumb Little Gym Calculator Genesweep, Scrollytold 2020 Our Take: Tech Gets a Culture Critique [Reboot. November.] Pete Botigieg Reboot 2.0 Speedy Scholar Talk to Dog Bot Lack of Access, Long Waitlists: Education in Illinois Prisons [Southside Weekly, print edition data visualizations.</description>
     </item>
   </channel>
 </rss>

@@ -2,21 +2,41 @@
 title: a concept:news
 ---
 
-## 2023 
-- I attended MIT's <a href="https://ide.mit.edu/wp-content/uploads/2023/06/CODE@MIT-2023-Agenda-V4-Final.pdf?x19853" target="_blank"> Conference on Digital Experimentation (CODE) </a> [November, 2023.]
+{{< columns "November 2023" >}}
+- I attended MIT's <a href="https://ide.mit.edu/wp-content/uploads/2023/06/CODE@MIT-2023-Agenda-V4-Final.pdf?x19853" target="_blank"> Conference on Digital Experimentation</a>  (CODE)
+{{< /columns >}}
 
-## 2021 
+{{< columns "August 2021" >}}
+- I attended <a href ="https://srccon.org/" target = "_blank"> SRCCON </a> 
+{{< /columns >}}
 
-- <a href="https://jeremiah.milbauer.info/" target="_blank">Jermiah Milbauer</a>, <a href="https://yu-tao-chen.com/" target="_blank">Yutao Chen </a>, <a href="https://macss.uchicago.edu/directory/James-Evans" target="_blank">James Evans</a>, and I are presenting our poster "Representing Repositories in the Open-Source Ecosystem" at ETH Zurich's <a href="https://ic2s2-2021.ethz.ch/" target="_blank">IC2S2</a>, online. [July, 2021]
-- I'll be attending <a href ="https://srccon.org/" target = "_blank"> SRCCON </a>. [August, 2021.]
-- I graduated! In my last year at school, I was the Civic Engagement Chair on the <a href ="https://politics.uchicago.edu/about/student-advisory-board" target = "_blank">IOP's Student Advisory Board </a>, the chair of <a href="https://www.uchicagocollegecouncil.com/" target = "_blank">UChicago Student Government's Technology committee</a>, and founded <a href="https://github.com/UCOpenData" target = "_blank">UChicago's Open Data Project</a>. I had also been a member of <a href="https://occams.uchicago.edu/" target = "_blank">Occam's Razor</a> since my first year, and half the EIC of the <a href="https://chicagoshadydealer.com/" target = "_blank">Chicago Shady Dealer</a> since my third year. [June, 2021.]
-- I attended the <a href="https://www.cs.uoregon.edu/research/summerschool/summer21/index.php" target = "_blank"> Oregon Programming Languages Summer School </a>. [June, 2021.]
-- I attended the <a href="http://datasciencebydesign.org/events#C4" target = "_blank"> Data Science by Design Creator Conference </a>. [May, 2021.]
-- I was a teaching assistant for <a href="https://cfss.uchicago.edu/" target="_blank"> SOCI 30500: Computing for the Social Sciences </a> for the fourth and final time. [Spring 2019, Spring 2020, Fall 2020, Winter 2021.]
 
-## 2020 
+{{< columns "July 2021" >}}
+- <a href="https://jeremiah.milbauer.info/" target="_blank">Jermiah Milbauer</a>, <a href="https://yu-tao-chen.com/" target="_blank">Yutao Chen </a>, <a href="https://macss.uchicago.edu/directory/James-Evans" target="_blank">James Evans</a>, and I presented our poster "Representing Repositories in the Open-Source Ecosystem" at <a href="https://ic2s2-2021.ethz.ch/" target="_blank">IC2S2</a>
+{{< /columns >}}
 
-- I contributed a dataset on <a href = "https://tinyletter.com/data-is-plural/letters/data-is-plural-2020-12-23-edition" target = "_blank"> Social Scientists Testifying </a> to Data is Plural. [December, 2020.]
-- I attended <a href ="https://icfp20.sigplan.org/venue/icfp-2020-venue" target = "_blank"> ICFP</a> with generous support from the <a href = "https://icfp20.sigplan.org/home/PLMW-icfp-2020?track=PLMW%20%40%20ICFP%20" target = "_blank"> PLMW </a> [August, 2020.]
+{{< columns "June 2021" >}}
+- Graduated. In my last year at school, I was the Civic Engagement Chair on the <a href ="https://politics.uchicago.edu/about/student-advisory-board" target = "_blank">IOP's Student Advisory Board </a>, the chair of <a href="https://www.uchicagocollegecouncil.com/" target = "_blank">UChicago Student Government's Technology committee</a>, and founded <a href="https://github.com/UCOpenData" target = "_blank">UChicago's Open Data Project</a>. I had also been a member of <a href="https://occams.uchicago.edu/" target = "_blank">Occam's Razor</a> since my first year, and half the EIC of the <a href="https://chicagoshadydealer.com/" target = "_blank">Chicago Shady Dealer</a> since my third year.
+- I attended the <a href="https://www.cs.uoregon.edu/research/summerschool/summer21/index.php" target = "_blank"> Oregon Programming Languages Summer School </a> 
+{{< /columns >}}
+
+{{< columns "May 2021" >}}
+- I attended the <a href="http://datasciencebydesign.org/events#C4" target = "_blank"> Data Science by Design Creator Conference </a> 
+{{< /columns >}}
+
+{{< columns "February 2021" >}}
+- I TA'd <a href="https://cfss.uchicago.edu/" target="_blank"> SOCI 30500: Computing for the Social Sciences </a> for the fourth (prior quarters: Spring 2019, Spring 2020, and Fall 2020) and final time.
+{{< /columns >}}
+
+{{< columns "December 2020" >}}
+- I contributed a dataset on <a href = "https://tinyletter.com/data-is-plural/letters/data-is-plural-2020-12-23-edition" target = "_blank"> Social Scientists Testifying </a> to Data is Plural.
+{{< /columns >}}
+
+{{< columns "August 2020" >}}
+- I attended <a href ="https://icfp20.sigplan.org/venue/icfp-2020-venue" target = "_blank"> ICFP</a> with generous support from the <a href = "https://icfp20.sigplan.org/home/PLMW-icfp-2020?track=PLMW%20%40%20ICFP%20" target = "_blank"> PLMW</a>
+{{< /columns >}}
+
+{{< columns "July 2020" >}}
 - I attended the <a href="https://shriram.github.io/pl-hci-school-2020/" target = "_blank"> PL/HCI Swimmer School </a> [July, 2020.]
-- I attended <a href="https://iriss.stanford.edu/css/conferences/2020-conference-computational-sociology" target="_blank">Stanford's Conference on Computational Sociology</a> [July, 2020.]
+- I attended <a href="https://iriss.stanford.edu/css/conferences/2020-conference-computational-sociology" target="_blank">Stanford's Conference on Computational Sociology</a>
+{{< /columns >}}
