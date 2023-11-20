@@ -2,8 +2,13 @@
 title: a concept:colophon
 ---
 
-This website is a collection of markdown files stored in a <a href="https://github.com/deblnia/deblnia.github.io" target="_blank">Github repository</a>, and deployed via Netlify using Hugo and R's `blogdown` package. I bought the domain name from Google Domains for $12/year. This site collects no analytics. If you don't tell me, I will never know you were here. 
+This website is a collection of markdown files stored in a public <a href="https://github.com/deblnia/deblnia.github.io" target="_blank">Github repository</a>, and deployed via Netlify using Hugo and R's `blogdown` package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using my 13" Mac Book Pro.  
 
 The design is forked from <a href="http://bettermotherfuckingwebsite.com/" target="_blank">bettermotherfuckingwebsite.com</a>. It is 7 CSS declarations and uses your browser's default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.5). 
 
-I write from either my 15" HP Spectre x360 or my 13" 2011 Mac Book Pro, using either RStudio or VSCode. 
+I have a few philosophical commitments for this site, namely that to the best of my knowledge and ability it be <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/" target="_blank"> low-tech</a>, <a href="https://jeffhuang.com/designed_to_last/" target="_blank"> designed to last </a>, and supportive of <a href="https://indieweb.org/POSSE
+" target="_blank"> POSSE</a>. Following those commitments, this site collects no analytics. 
+
+- Version 1.0.0.0
+  - `Changed` content of the homepage, and the nav section titles and content to better reflect post-grad.  
+  - `Removed` a lot of duplicative boilerplate files (eg. the example site that came with the template). One step closer to having this whole system fit in my head. 
