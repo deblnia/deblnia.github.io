@@ -8,7 +8,3 @@ The design is forked from <a href="http://bettermotherfuckingwebsite.com/" targe
 
 I have a few philosophical commitments for this site, namely that to the best of my knowledge and ability it be <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/" target="_blank"> low-tech</a>, <a href="https://jeffhuang.com/designed_to_last/" target="_blank"> designed to last </a>, and supportive of <a href="https://indieweb.org/POSSE
 " target="_blank"> POSSE</a>. Following those commitments, this site collects no analytics. 
-
-- Version 1.0.0.0
-  - `Changed` content of the homepage, and the nav section titles and content to better reflect post-grad.  
-  - `Removed` a lot of duplicative boilerplate files (eg. the example site that came with the template). One step closer to having this whole system fit in my head. 
