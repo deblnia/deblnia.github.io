@@ -5,7 +5,7 @@ title: a concept:work
 
 ### Web
 
-- <a href = "https://www.kernelmag.io/" target="_blank"> Kernel Magazine </a>  _--w. <a href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao </a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan </a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun </a>_
+- <a href = "https://www.kernelmag.io/" target="_blank"> Kernel Magazine </a>  *w. <a href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao </a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan </a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun </a>*
 - <a href = "https://deblnia.github.io/breath-counter/" target="_blank"> Breath Counter </a> 
 - <a href = "https://deblnia.github.io/gym-calculator/" target="_blank"> A Dumb Little Gym Calculator </a>
 - <a href = "https://genesweep.netlify.app/" target="_blank"> Genesweep, Scrollytold </a>

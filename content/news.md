@@ -37,6 +37,6 @@ title: a concept:news
 {{< /columns >}}
 
 {{< columns "July 2020" >}}
-- I attended the <a href="https://shriram.github.io/pl-hci-school-2020/" target = "_blank"> PL/HCI Swimmer School </a> [July, 2020.]
+- I attended the <a href="https://shriram.github.io/pl-hci-school-2020/" target = "_blank"> PL/HCI Swimmer School </a> 
 - I attended <a href="https://iriss.stanford.edu/css/conferences/2020-conference-computational-sociology" target="_blank">Stanford's Conference on Computational Sociology</a>
 {{< /columns >}}
