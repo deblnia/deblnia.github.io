@@ -8,3 +8,6 @@ The design is forked from <a href="http://bettermotherfuckingwebsite.com/" targe
 
 I have a few philosophical commitments for this site, namely that to the best of my knowledge and ability it be <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/" target="_blank"> low-tech</a>, <a href="https://jeffhuang.com/designed_to_last/" target="_blank"> designed to last </a>, and supportive of <a href="https://indieweb.org/POSSE
 " target="_blank"> POSSE</a>. Following those commitments, this site collects no analytics. 
+
+<div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
