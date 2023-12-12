@@ -26,10 +26,12 @@ title: a concept:work
 **<a href="https://civictech.guide/civic-data/" target="_blank">Civic Tech Field Guide: Civic Data</a>** 
 
 --- 
+
 **Washington Post Elections Coverage** 
   
   - {{< link "https://www.washingtonpost.com/elections/election-results/ohio/house-districts-11-15-primaries/" >}} Ohio Special Election Results  {{< /link>}}  
   - {{< link "https://www.washingtonpost.com/elections/election-results/texas/house-district-6-special-election/" >}} Texas Special Elections Results {{< /link>}}  
+  
 ---
 
 **Twitter Bots** 
@@ -55,6 +57,7 @@ title: a concept:work
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/three-reasons-you-should-write-for-us-the-chicago-shady-dealer-instead-of-posting-in-the-meme-pages/" target = "_blank"> Why You Should Write for Us (The Chicago Shady Dealer) Instead of Posting in Meme Pages </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/the-shady-dealers-must-take-classes-of-summer-2018/" target = "_blank"> The Shady Dealer's Must-Take Classes of Summer 2018 </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/where-are-they-now-checking-in-with-the-class-of-1890/" target = "_blank"> Where Are They Now? Checking in With The Class of 1890 </a> 
+
 ---
 
 **The Maroon**
@@ -63,6 +66,7 @@ title: a concept:work
 - <a href = "https://www.chicagomaroon.com/article/2018/3/13/name/" target = "_blank"> What's in a Name? </a>
 - <a href = "https://www.chicagomaroon.com/article/2018/2/5/second-city/" target = "_blank"> Meghan Babbe Steals the (Talk) Show at the Second City Training Center </a>
 - <a href = "https://www.chicagomaroon.com/article/2017/11/7/second-city/" target = "_blank"> Dream Freaks Make Earthly Appearance in Second City Show </a> 
+
 ---
 
 **Reboot**
