@@ -34,9 +34,11 @@ title: a concept:work
   
 --- 
 **Twitter Bots** 
+
   - <a href = "https://twitter.com/petebutbot" target="_blank"> Pete Botigieg </a>
   - <a href="https://twitter.com/talktodogbot" target="_blank">Talk to Dog Bot</a>
   - <a href="https://twitter.com/hpavocadoprice?lang=en" target="_blank">HP Avocado Index</a>
+  
 --- 
 
 **<a href = "https://ipmnewsroom.org/lack-of-access-long-waitlists-education-in-illinois-prisons/" target = "_blank"> Lack of Access, Long Waitlists: Education in Illinois Prisons </a>** 
@@ -54,7 +56,6 @@ title: a concept:work
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/three-reasons-you-should-write-for-us-the-chicago-shady-dealer-instead-of-posting-in-the-meme-pages/" target = "_blank"> Why You Should Write for Us (The Chicago Shady Dealer) Instead of Posting in Meme Pages </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/the-shady-dealers-must-take-classes-of-summer-2018/" target = "_blank"> The Shady Dealer's Must-Take Classes of Summer 2018 </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/where-are-they-now-checking-in-with-the-class-of-1890/" target = "_blank"> Where Are They Now? Checking in With The Class of 1890 </a> 
-
 ---
 
 **The Maroon**
@@ -63,7 +64,6 @@ title: a concept:work
 - <a href = "https://www.chicagomaroon.com/article/2018/3/13/name/" target = "_blank"> What's in a Name? </a>
 - <a href = "https://www.chicagomaroon.com/article/2018/2/5/second-city/" target = "_blank"> Meghan Babbe Steals the (Talk) Show at the Second City Training Center </a>
 - <a href = "https://www.chicagomaroon.com/article/2017/11/7/second-city/" target = "_blank"> Dream Freaks Make Earthly Appearance in Second City Show </a> 
-
 ---
 
 **Reboot**
