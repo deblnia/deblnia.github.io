@@ -26,30 +26,29 @@ title: a concept:work
 **<a href="https://civictech.guide/civic-data/" target="_blank">Civic Tech Field Guide: Civic Data</a>** 
 
 --- 
-
 **Washington Post Elections Coverage** 
   
   - {{< link "https://www.washingtonpost.com/elections/election-results/ohio/house-districts-11-15-primaries/" >}} Ohio Special Election Results  {{< /link>}}  
   - {{< link "https://www.washingtonpost.com/elections/election-results/texas/house-district-6-special-election/" >}} Texas Special Elections Results {{< /link>}}  
-  
---- 
+---
+
 **Twitter Bots** 
 
   - <a href = "https://twitter.com/petebutbot" target="_blank"> Pete Botigieg </a>
   - <a href="https://twitter.com/talktodogbot" target="_blank">Talk to Dog Bot</a>
   - <a href="https://twitter.com/hpavocadoprice?lang=en" target="_blank">HP Avocado Index</a>
-  
+
 --- 
 
 **<a href = "https://ipmnewsroom.org/lack-of-access-long-waitlists-education-in-illinois-prisons/" target = "_blank"> Lack of Access, Long Waitlists: Education in Illinois Prisons </a>** 
 
 ---
+
 **<a href = "https://reductress.com/post/do-you-want-a-septum-piercing-or-do-you-just-want-the-cool-bisexuals-to-let-you-sit-at-their-lunch-table/" target = "_blank"> Do You Want A Septum Piercing or Do You Just Want the Cool Bisexuals to Let You Sit at Their Lunch Table? </a>**
 
 ---
 
 **Chicago Shady Dealer**
-
 - <a href = "https://chicagoshadydealer.com/index.php/2019/11/23/uchicago-wifi-ranked-333333333-by-us-news-and-world-report/" target = "_blank"> UChicago Wifi Ranked #333,333,333 by US News and World Report </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/seven-places-you-must-barf-this-o-week/" target = "_blank"> Seven Places You MUST Barf This O-Week </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/university-announces-new-dorm-to-be-located-in-the-cayman-islands/" target = "_blank"> University Announces New Dorm to be Located in the Caymen Islands </a>
@@ -65,7 +64,6 @@ title: a concept:work
 - <a href = "https://www.chicagomaroon.com/article/2018/2/5/second-city/" target = "_blank"> Meghan Babbe Steals the (Talk) Show at the Second City Training Center </a>
 - <a href = "https://www.chicagomaroon.com/article/2017/11/7/second-city/" target = "_blank"> Dream Freaks Make Earthly Appearance in Second City Show </a> 
 ---
-
 **Reboot**
 
 - {{< link "https://joinreboot.org/p/nontech" >}} Our Best Non-Tech Recs {{< /link>}}  
