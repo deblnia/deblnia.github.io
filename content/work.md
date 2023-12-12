@@ -31,7 +31,7 @@ title: a concept:work
   
   - {{< link "https://www.washingtonpost.com/elections/election-results/ohio/house-districts-11-15-primaries/" >}} Ohio Special Election Results  {{< /link>}}  
   - {{< link "https://www.washingtonpost.com/elections/election-results/texas/house-district-6-special-election/" >}} Texas Special Elections Results {{< /link>}}  
-  
+
 ---
 
 **Twitter Bots** 
@@ -51,6 +51,7 @@ title: a concept:work
 ---
 
 **Chicago Shady Dealer**
+
 - <a href = "https://chicagoshadydealer.com/index.php/2019/11/23/uchicago-wifi-ranked-333333333-by-us-news-and-world-report/" target = "_blank"> UChicago Wifi Ranked #333,333,333 by US News and World Report </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/seven-places-you-must-barf-this-o-week/" target = "_blank"> Seven Places You MUST Barf This O-Week </a> 
 - <a href = "https://chicagoshadydealer.com/index.php/2013/03/16/university-announces-new-dorm-to-be-located-in-the-cayman-islands/" target = "_blank"> University Announces New Dorm to be Located in the Caymen Islands </a>
