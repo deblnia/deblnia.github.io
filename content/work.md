@@ -4,7 +4,7 @@ title: a concept:work
 
 ---
 
-**<a href = "https://www.kernelmag.io/" target="_blank"> Kernel Magazine</a>** _-- w.<a  href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao</a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan</a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun</a>_
+**<a href = "https://www.kernelmag.io/" target="_blank"> Kernel Magazine</a>** *-- w.<a  href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao</a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan</a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun</a>*
 
 ---
 
@@ -62,6 +62,7 @@ title: a concept:work
 ---
 
 **The Maroon**
+
 - <a href = "https://www.chicagomaroon.com/article/2018/7/15/hannah-gadsby-makes-laugh-listen-nanette-netflix-s/" target = "_blank"> Hannah Gadsby Makes you Laugh and Listen up in "Nanette," a Netflix Stand-up Special </a> 
 - <a href = "https://www.chicagomaroon.com/article/2018/5/18/eighth-grade-bo-burnham-come-doc-films/" target = "_blank"> "Eighth Grade," and Bo Burnham, Come to Doc Films </a> 
 - <a href = "https://www.chicagomaroon.com/article/2018/3/13/name/" target = "_blank"> What's in a Name? </a>
