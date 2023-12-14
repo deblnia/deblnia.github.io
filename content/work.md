@@ -1,7 +1,6 @@
 ---
 title: a concept:work
----
-
+layout: work
 ---
 
 **<a href = "https://www.kernelmag.io/" target="_blank"> Kernel Magazine</a>** *-- w.<a  href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao</a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan</a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun</a>*

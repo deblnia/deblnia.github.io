@@ -69,18 +69,57 @@ Matthew effect Norms can be studied by sociologist There are four main norms tha
 The design is forked from bettermotherfuckingwebsite.com. It is 7 CSS declarations and uses your browser&amp;rsquo;s default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.</description>
     </item>
     <item>
+      <title>a concept:evergreen</title>
+      <link>https://deblina.net/evergreen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://deblina.net/evergreen/</guid>
+      <description>Now A public statement of my current focus and priorities. Read more about the concept from its originator .
+Well Done Things that make me go 👌 mwah
+Notes to Self Exactly that</description>
+    </item>
+    <item>
       <title>a concept:news</title>
       <link>https://deblina.net/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/news/</guid>
-      <description>2023 I attended MIT&amp;rsquo;s Conference on Digital Experimentation (CODE) [November 2023] 2021 Jermiah Milbauer, Yutao Chen , James Evans, and I are presenting our poster &amp;ldquo;Representing Repositories in the Open-Source Ecosystem&amp;rdquo; at ETH Zurich&amp;rsquo;s IC2S2, online. I&amp;rsquo;ll be attending SRCCON . [August, 2021.] I graduated! In my last year at school, I was the Civic Engagement Chair on the IOP&amp;rsquo;s Student Advisory Board , the chair of UChicago Student Government&amp;rsquo;s Technology committee, and founded UChicago&amp;rsquo;s Open Data Project.</description>
+      <description>&lt;!DOCTYPE html&gt; November 2023
+I attended MIT&amp;rsquo;s Conference on Digital Experimentation (CODE) &lt;!DOCTYPE html&gt; August 2021
+I attended SRCCON &lt;!DOCTYPE html&gt; July 2021
+Jermiah Milbauer, Yutao Chen , James Evans, and I presented our poster &amp;ldquo;Representing Repositories in the Open-Source Ecosystem&amp;rdquo; at IC2S2 &lt;!DOCTYPE html&gt; June 2021
+Graduated. In my last year at school, I was the Civic Engagement Chair on the IOP&amp;rsquo;s Student Advisory Board , the chair of UChicago Student Government&amp;rsquo;s Technology committee, and founded UChicago&amp;rsquo;s Open Data Project.</description>
+    </item>
+    <item>
+      <title>a concept:notes to self</title>
+      <link>https://deblina.net/notes-to-self/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://deblina.net/notes-to-self/</guid>
+      <description> Sit still Self-confidence comes from doing hard things </description>
+    </item>
+    <item>
+      <title>a concept:now</title>
+      <link>https://deblina.net/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://deblina.net/now/</guid>
+      <description> Grad School. I want to apply to it! I have a mix of JD and/or PhD programs in mind, but I&amp;rsquo;ve been out of school for about three years now, so putting applications together (getting rec letters, taking tests) takes some real effort. </description>
+    </item>
+    <item>
+      <title>a concept:well-done</title>
+      <link>https://deblina.net/well-done/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://deblina.net/well-done/</guid>
+      <description></description>
     </item>
     <item>
       <title>a concept:work</title>
       <link>https://deblina.net/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/work/</guid>
-      <description>2022 Kernel Magazine (w. Ivan Zhao , Maggie Pan , and Matthew Sun ) Breath Counter Our Best Non-Tech Recs [Reboot. September.] Replies To: Towards Ineffective Altruism [Reboot. June.] Should You Believe Wikipedia? [Reboot. February.] 2021 A Dumb Little Gym Calculator Genesweep, Scrollytold 2020 Our Take: Tech Gets a Culture Critique [Reboot. November.] Pete Botigieg Reboot 2.0 Speedy Scholar Talk to Dog Bot Lack of Access, Long Waitlists: Education in Illinois Prisons [Southside Weekly, print edition data visualizations.</description>
+      <description>Kernel Magazine &amp;ndash; w. Ivan Zhao, Maggie Pan, and Matthew Sun
+Breath Counter A Dumb Little Gym Calculator Genesweep, Scrollytold Speedy Scholar
+Civic Tech Field Guide: Civic Data
+Washington Post Elections Coverage
+Ohio Special Election Results Texas Special Elections Results Twitter Bots
+Pete Botigieg Talk to Dog Bot HP Avocado Index Lack of Access, Long Waitlists: Education in Illinois Prisons Do You Want A Septum Piercing or Do You Just Want the Cool Bisexuals to Let You Sit at Their Lunch Table?</description>
     </item>
   </channel>
 </rss>
