@@ -1,5 +1,5 @@
 ---
-title: a concept:well-done
+title: a concept:letters of recommendation
 ---
 
 - Emails that facilitate thoughtful spaced repetition
