@@ -1,20 +1,33 @@
 {{ define "main" }}
 <style>
-  /* Dashed red border */
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(3, 0.5fr);
+  gap: 20px;
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
 }
+
+fieldset {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+
 </style>
 <header>
     <h1>
         {{- .Title | markdownify -}}
     </h1>
 </header>
-<article>
+    <div class = "projects"> 
     {{ .Content }}
-</article>
 
+    </div>
+</section>
 {{ end }}
