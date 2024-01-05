@@ -1,5 +1,4 @@
 ---
-title: a concept:news
 ---
 
 {{< columns "November 2023" >}}
