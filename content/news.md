@@ -1,4 +1,5 @@
 ---
+layout: news
 ---
 
 {{< columns "November 2023" >}}

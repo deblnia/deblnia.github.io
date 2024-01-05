@@ -1,6 +1,5 @@
 {{ define "main" }}
 <style>
-
 .projects {
   display: grid;
   grid-template-columns: repeat(2, 0.5fr);
@@ -10,14 +9,12 @@
   line-height: 1.6;
   font-size: 18px;
   color: #444;
+  margin-top: 5px;
 }
-
 fieldset {
   border: 1px solid #ddd;
   padding: 10px;
-}
-
-
+}x
 </style>
 <header>
     <h1>
@@ -26,7 +23,5 @@ fieldset {
 </header>
     <div class = "projects"> 
     {{ .Content }}
-
     </div>
-</section>
 {{ end }}

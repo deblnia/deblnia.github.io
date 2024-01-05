@@ -1,0 +1,15 @@
+{{ define "main" }}
+<style>
+.projects {
+  margin-top: -10px;
+}
+</style>
+<header>
+    <h1>
+        {{- .Title | markdownify -}}
+    </h1>
+</header>
+    <div class = "projects"> 
+    {{ .Content }}
+    </div>
+{{ end }}

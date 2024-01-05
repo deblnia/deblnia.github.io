@@ -1,11 +1,8 @@
 ---
 layout: work
 ---
-
 {{< project "Kernel Magazine" "https://www.kernelmag.io/" >}}
-
 <i> -- with <a  href = "https://ivanzhao.me/" target="_blank"> Ivan Zhao</a>, <a href = "https://www.magzipan.com/" target="_blank"> Maggie Pan</a>, and <a href = "https://sunnymatt.com/" target="_blank"> Matthew Sun</a> </i>
-
 
 {{< /project >}}
 
