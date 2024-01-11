@@ -44,10 +44,6 @@ enableRobotsTXT = true
     url = "/posts/"
     name = "posts"
     weight = 3
-  [[menu.main]]
-    url = "/evergreen/"
-    name = "🌱"
-    weight = 4
 
   # Footer
   [[menu.footer]]
