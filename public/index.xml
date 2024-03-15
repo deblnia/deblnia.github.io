@@ -6,7 +6,7 @@
     <description>Recent content in a concept:website on deblina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright> 2023 — Deblina Mukherjee — No rights reserved.</copyright>
+    <copyright> 2024 — Deblina Mukherjee — No rights reserved.</copyright>
     <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://deblina.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -61,7 +61,7 @@ Merton is an institutionalist (institutions in the sense of trust and behavior) 
 Matthew effect Norms can be studied by sociologist There are four main norms that constitute science: universalism, communism, disinterestedness, organized skepticism.</description>
     </item>
     <item>
-      <title>a concept:colophon</title>
+      <title>Colophon</title>
       <link>https://deblina.net/colophon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/colophon/</guid>
@@ -69,16 +69,7 @@ Matthew effect Norms can be studied by sociologist There are four main norms tha
 The design is forked from bettermotherfuckingwebsite.com. It is 7 CSS declarations and uses your browser&amp;rsquo;s default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.</description>
     </item>
     <item>
-      <title>a concept:evergreen</title>
-      <link>https://deblina.net/evergreen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/evergreen/</guid>
-      <description>Now A public statement of my current focus and priorities. Read more about the concept from its originator .
-Well Done Things that make me go 👌 mwah
-Notes to Self Exactly that</description>
-    </item>
-    <item>
-      <title>a concept:news</title>
+      <title>News</title>
       <link>https://deblina.net/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/news/</guid>
@@ -89,37 +80,11 @@ Jermiah Milbauer, Yutao Chen , James Evans, and I presented our poster &amp;ldqu
 Graduated. In my last year at school, I was the Civic Engagement Chair on the IOP&amp;rsquo;s Student Advisory Board , the chair of UChicago Student Government&amp;rsquo;s Technology committee, and founded UChicago&amp;rsquo;s Open Data Project.</description>
     </item>
     <item>
-      <title>a concept:notes to self</title>
-      <link>https://deblina.net/notes-to-self/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/notes-to-self/</guid>
-      <description> Sit still Self-confidence comes from doing hard things </description>
-    </item>
-    <item>
-      <title>a concept:now</title>
-      <link>https://deblina.net/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/now/</guid>
-      <description> Grad School. I want to apply to it! I have a mix of JD and/or PhD programs in mind, but I&amp;rsquo;ve been out of school for about three years now, so putting applications together (getting rec letters, taking tests) takes some real effort. </description>
-    </item>
-    <item>
-      <title>a concept:well-done</title>
-      <link>https://deblina.net/well-done/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/well-done/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>a concept:work</title>
+      <title>Work</title>
       <link>https://deblina.net/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deblina.net/work/</guid>
-      <description>Kernel Magazine &amp;ndash; w. Ivan Zhao, Maggie Pan, and Matthew Sun
-Breath Counter A Dumb Little Gym Calculator Genesweep, Scrollytold Speedy Scholar
-Civic Tech Field Guide: Civic Data
-Washington Post Elections Coverage
-Ohio Special Election Results Texas Special Elections Results Twitter Bots
-Pete Botigieg Talk to Dog Bot HP Avocado Index Lack of Access, Long Waitlists: Education in Illinois Prisons Do You Want A Septum Piercing or Do You Just Want the Cool Bisexuals to Let You Sit at Their Lunch Table?</description>
+      <description>Kernel Magazine &amp;ndash; with Ivan Zhao, Maggie Pan, and Matthew Sun Breath Counter A Dumb Little Gym Calculator Genesweep, Scrollytold Speedy Scholar Civic Tech Field Guide: Civic Data WaPo Elections Ohio Special Election Results Texas Special Elections Results Twitter Bots Pete Botigieg Talk to Dog Bot HP Avocado Index Southside Weekly Lack of Access, Long Waitlists: Education in Illinois Prisons Reboot Our Best Non-Tech Recs Replies to: Ineffective Altruism Should You Believe Wikipedia?</description>
     </item>
   </channel>
 </rss>
