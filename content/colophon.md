@@ -1,5 +1,5 @@
 ---
-title: Colophon
+title: a concept:colophon
 ---
 
 This website is a collection of markdown files stored in a public <a href="https://github.com/deblnia/deblnia.github.io" target="_blank">Github repository</a>, and deployed via Netlify using Hugo and R's `blogdown` package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using my 13" Mac Book Pro.  

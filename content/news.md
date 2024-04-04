@@ -1,5 +1,5 @@
 ---
-title: News
+title: a concept:news 
 layout: news
 ---
 

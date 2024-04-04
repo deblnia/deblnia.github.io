@@ -1,5 +1,5 @@
 ---
-title: Work
+title: a concept: work
 layout: work
 ---
 
