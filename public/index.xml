@@ -2,88 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a concept:website on deblina</title>
-    <link>https://deblina.net/</link>
+    <link>http://localhost:4195/</link>
     <description>Recent content in a concept:website on deblina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright> 2024 — Deblina Mukherjee — No rights reserved.</copyright>
     <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://deblina.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4195/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Mad-Libs</title>
-      <link>https://deblina.net/posts/2021/05/making-mad-libs/</link>
+      <link>http://localhost:4195/posts/2021/05/making-mad-libs/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/posts/2021/05/making-mad-libs/</guid>
-      <description>We played with an write-your-own-article / Mad-libs format a couple times of times at the The Dealer this year &amp;ndash; see examples here and here &amp;ndash; and it&amp;rsquo;s really nice illustration of basic jQuery functionality. This is a small tutorial of the code behind those articles. Major credits to R.E. for pioneering the form.
-A run-of-the-mill input is pretty straight forward in HTML. (In the Dealer&amp;rsquo;s Wordpress backend, you can write HTML using the text tab on the classic editor.</description>
+      <guid>http://localhost:4195/posts/2021/05/making-mad-libs/</guid>
+      <description>We played with an write-your-own-article / Mad-libs format a couple times of times at the The Dealer this year &amp;ndash; see examples here and here &amp;ndash; and it&amp;rsquo;s really nice illustration of basic jQuery functionality. This is a small tutorial of the code behind those articles. Major credits to R.E. for pioneering the form.&#xA;A run-of-the-mill input is pretty straight forward in HTML. (In the Dealer&amp;rsquo;s Wordpress backend, you can write HTML using the text tab on the classic editor.</description>
+    </item>
+    <item>
+      <title>Advanced R Bookclub</title>
+      <link>http://localhost:4195/posts/2021/03/advanced-r-bookclub/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4195/posts/2021/03/advanced-r-bookclub/</guid>
+      <description>Chapter 2: Names and Values The &amp;lt;- creates an assignment, or binding A shared binding is when the same object is bound / assigned to two names R is pass-by-reference (e.g. assignments point to memory addresses) but also has copy-on-modify (so the values in an object is copied when one binding is changed) can use tracemem() to see what&amp;rsquo;s pointing to what, but make sure to turn it off (untracemem()) vectors are copied in their entirety when modified, but lists are copied piece by piece (e.</description>
     </item>
     <item>
       <title>Professor Richards&#39; Words to Distinguish</title>
-      <link>https://deblina.net/posts/2021/03/professor-richards-words-to-distinguish/</link>
+      <link>http://localhost:4195/posts/2021/03/professor-richards-words-to-distinguish/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/posts/2021/03/professor-richards-words-to-distinguish/</guid>
-      <description>In his syllabus for the Winter 2021 edition of the History and Philosophy of Science II (Late Renaissance through the Enlightenment), Professor Robert Richards made note of some commonly confused word pairs.
-Refute vs Rebut To refute is to actually prove something isn&amp;rsquo;t true To rebut is to try and prove something isn&amp;rsquo;t true Comprise vs compose To comprise is to include or contain To compose means to make up or form the basis of The whole comprises the elements or parts, and the elements or parts compose the whole.</description>
+      <guid>http://localhost:4195/posts/2021/03/professor-richards-words-to-distinguish/</guid>
+      <description>In his syllabus for the Winter 2021 edition of the History and Philosophy of Science II (Late Renaissance through the Enlightenment), Professor Robert Richards made note of some commonly confused word pairs.&#xA;Refute vs Rebut To refute is to actually prove something isn&amp;rsquo;t true To rebut is to try and prove something isn&amp;rsquo;t true Comprise vs compose To comprise is to include or contain To compose means to make up or form the basis of The whole comprises the elements or parts, and the elements or parts compose the whole.</description>
     </item>
     <item>
       <title>STAT 224 Notes</title>
-      <link>https://deblina.net/posts/2020/12/stat-224-notes/</link>
+      <link>http://localhost:4195/posts/2020/12/stat-224-notes/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/posts/2020/12/stat-224-notes/</guid>
-      <description>These are notes for STAT 224: Applied Regression Analysis, taught by James Dignam.
-Lecture 3 Inference tests test the importance of the predictor Lecture 4 Can do all the regular things (confidence intervals, etc) to $\beta$s $R^2$ is a measure of explained variation Lecture 5 MLR is regression with many predictors Coefficients are one unit change holding all other predictors constant Lecture 6 F-Test tests whether all the coefficients are simultaneously 0 Standardized residuals residuals have mean 0 and variance 1 and are dependent also Internally studentized residuals are approx.</description>
+      <guid>http://localhost:4195/posts/2020/12/stat-224-notes/</guid>
+      <description>These are notes for STAT 224: Applied Regression Analysis, taught by James Dignam.&#xA;Lecture 3 Inference tests test the importance of the predictor Lecture 4 Can do all the regular things (confidence intervals, etc) to $\beta$s $R^2$ is a measure of explained variation Lecture 5 MLR is regression with many predictors Coefficients are one unit change holding all other predictors constant Lecture 6 F-Test tests whether all the coefficients are simultaneously 0 Standardized residuals residuals have mean 0 and variance 1 and are dependent also Internally studentized residuals are approx.</description>
+    </item>
+    <item>
+      <title>CS 154 Notes</title>
+      <link>http://localhost:4195/posts/2020/06/cs-154-notes/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4195/posts/2020/06/cs-154-notes/</guid>
+      <description>These are notes for CS 154, taught by Yanjing Li, Junchen Jiang, and Haryadi Gunawi. The code for the class can be found here.&#xA;Lecture 21: Synchronization Each thread’s program counter points to a different address in the same code segment All threads share data and heap Data = all static and global variables Heap = malloc’d and dynamically allocated data Pass by Reference into Main Stack dangerous =&amp;gt; can lead to read / write conflict Think about shared variables and atomicity in concurrency Which variables are shared?</description>
     </item>
     <item>
       <title>Maverick Markets Notes</title>
-      <link>https://deblina.net/posts/2020/04/maverick-markets-notes/</link>
+      <link>http://localhost:4195/posts/2020/04/maverick-markets-notes/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/posts/2020/04/maverick-markets-notes/</guid>
-      <description>This is a guide to the double-starred readings that will be on the exam.
-Hirschman, A., 1986, Rival Views of Market Society and Other Recent Essays. New York: Viking ch.5: Rival Views of Market Society, pp. 105-41 Covers different organizations of economy: Subsistence Fuedal Capitalism Interpretation and evaluation of capitalism is historically contingent &amp;ldquo;The idea that the social order &amp;ndash; intermediate between the fortituitous and the unchangeable &amp;ndash; may be an important cause of human unhappiness became widespread only in the modern age&amp;rdquo; (105) Idea of changing social order to increase happiness is modern Coincides with idea that human actions can have unintended consequences Arguments rooted in existance Precedence of embededness Capitalism evocative (simple models implausible) Response based/dialectec transformation theory The Doux-Commerce Thesis: commerce is a civiling agent of considerable power and range According to Hume and Smith, fosters industriousness and assiduity, frugality, punctuality, and probity) Market becomes cetral positon for the satisfaction of human wants The Self-Destruction Thesis: capitalist society tends to undermine moral foundations on which society must rest Appeals to individual self-interest over collective interest (Capitalism has within it the seeds of its own destruction) Capitalism throttles all other institutions (commodifies everything) Eclipse of the doux-commerce thesis Doux-commerce questioned and set aside in the latte rpart of the 18th century (industrialism wreaked havoc) Durkheim appears to generate a neo-doux commerce thesis, but is aware that any esnse of harmony generated by the division labor was an unintended consequence (superficial at best) The Fuedal Shackles Thesis Contends that the capitalist revolution was never finished, left hanging as bourgeoisie market-bearers bowed to the demands of aristocrats and traditional authority figures Less than fully mature capitalist system (peripheral nations from World Systems theory &amp;ndash; these theorists will try and explain why capitalism never matured) American exceptionalism: America came into being without the confines of a feudal past (also a curse according to Hartz &amp;ndash; less ideological diversity) This is a survey of different conceptions of capitalism &amp;ndash; a coherant but complex analytic (tableau ideologique) Granovetter, M.</description>
+      <guid>http://localhost:4195/posts/2020/04/maverick-markets-notes/</guid>
+      <description>This is a guide to the double-starred readings that will be on the exam.&#xA;Hirschman, A., 1986, Rival Views of Market Society and Other Recent Essays. New York: Viking ch.5: Rival Views of Market Society, pp. 105-41 Covers different organizations of economy: Subsistence Fuedal Capitalism Interpretation and evaluation of capitalism is historically contingent &amp;ldquo;The idea that the social order &amp;ndash; intermediate between the fortituitous and the unchangeable &amp;ndash; may be an important cause of human unhappiness became widespread only in the modern age&amp;rdquo; (105) Idea of changing social order to increase happiness is modern Coincides with idea that human actions can have unintended consequences Arguments rooted in existance Precedence of embededness Capitalism evocative (simple models implausible) Response based/dialectec transformation theory The Doux-Commerce Thesis: commerce is a civiling agent of considerable power and range According to Hume and Smith, fosters industriousness and assiduity, frugality, punctuality, and probity) Market becomes cetral positon for the satisfaction of human wants The Self-Destruction Thesis: capitalist society tends to undermine moral foundations on which society must rest Appeals to individual self-interest over collective interest (Capitalism has within it the seeds of its own destruction) Capitalism throttles all other institutions (commodifies everything) Eclipse of the doux-commerce thesis Doux-commerce questioned and set aside in the latte rpart of the 18th century (industrialism wreaked havoc) Durkheim appears to generate a neo-doux commerce thesis, but is aware that any esnse of harmony generated by the division labor was an unintended consequence (superficial at best) The Fuedal Shackles Thesis Contends that the capitalist revolution was never finished, left hanging as bourgeoisie market-bearers bowed to the demands of aristocrats and traditional authority figures Less than fully mature capitalist system (peripheral nations from World Systems theory &amp;ndash; these theorists will try and explain why capitalism never matured) American exceptionalism: America came into being without the confines of a feudal past (also a curse according to Hartz &amp;ndash; less ideological diversity) This is a survey of different conceptions of capitalism &amp;ndash; a coherant but complex analytic (tableau ideologique) Granovetter, M.</description>
     </item>
     <item>
       <title>CS 152 Notes</title>
-      <link>https://deblina.net/posts/2020/03/cs-152-notes/</link>
+      <link>http://localhost:4195/posts/2020/03/cs-152-notes/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/posts/2020/03/cs-152-notes/</guid>
-      <description>These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found here.
-Data Representation To convert to unsigned binary:
-Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&amp;rsquo;s place, and change to one Keep adding powers of two until you get to number To convert to hex:</description>
+      <guid>http://localhost:4195/posts/2020/03/cs-152-notes/</guid>
+      <description>These are notes for the final exam in CS 152, taught by Diana Franklin. The code for the class can be found here.&#xA;Data Representation To convert to unsigned binary:&#xA;Number of places is number of bits, fill all with zeroes by default (every place has value of 2 to the power of the place &amp;ndash; from the right, zero based indexing) Find highest power of two that goes into decimal number Go to that power&amp;rsquo;s place, and change to one Keep adding powers of two until you get to number To convert to hex:</description>
     </item>
     <item>
       <title>Introduction to Science Studies Notes</title>
-      <link>https://deblina.net/posts/2019/12/introduction-to-science-studies-notes/</link>
+      <link>http://localhost:4195/posts/2019/12/introduction-to-science-studies-notes/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/posts/2019/12/introduction-to-science-studies-notes/</guid>
-      <description>The 16 readings here were the required ones featured on the exam.
-Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278 Early text in science studies — analyzing science as an institution, trying to identify norms.
-Merton is an institutionalist (institutions in the sense of trust and behavior) — so studied science as a collection of internal rules and scripts (&amp;ldquo;norms&amp;rdquo;)
-Matthew effect Norms can be studied by sociologist There are four main norms that constitute science: universalism, communism, disinterestedness, organized skepticism.</description>
+      <guid>http://localhost:4195/posts/2019/12/introduction-to-science-studies-notes/</guid>
+      <description>The 16 readings here were the required ones featured on the exam.&#xA;Merton, Robert K. 1942. “The Normative Structure of Science,” pp. 267-278 Early text in science studies — analyzing science as an institution, trying to identify norms.&#xA;Merton is an institutionalist (institutions in the sense of trust and behavior) — so studied science as a collection of internal rules and scripts (&amp;ldquo;norms&amp;rdquo;)&#xA;Matthew effect Norms can be studied by sociologist There are four main norms that constitute science: universalism, communism, disinterestedness, organized skepticism.</description>
     </item>
     <item>
       <title>a concept:colophon</title>
-      <link>https://deblina.net/colophon/</link>
+      <link>http://localhost:4195/colophon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/colophon/</guid>
-      <description>This website is a collection of markdown files stored in a public Github repository, and deployed via Netlify using Hugo and R&amp;rsquo;s blogdown package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using my 13&amp;quot; Mac Book Pro.
-The design is forked from bettermotherfuckingwebsite.com. It is 7 CSS declarations and uses your browser&amp;rsquo;s default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.</description>
+      <guid>http://localhost:4195/colophon/</guid>
+      <description>This website is a collection of markdown files stored in a public Github repository, and deployed via Netlify using Hugo and R&amp;rsquo;s blogdown package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using my 13&amp;quot; Mac Book Pro.&#xA;The design is forked from bettermotherfuckingwebsite.com. It is 7 CSS declarations and uses your browser&amp;rsquo;s default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.</description>
     </item>
     <item>
       <title>a concept:news</title>
-      <link>https://deblina.net/news/</link>
+      <link>http://localhost:4195/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/news/</guid>
-      <description>&lt;!DOCTYPE html&gt; November 2023
-I attended MIT&amp;rsquo;s Conference on Digital Experimentation (CODE) &lt;!DOCTYPE html&gt; August 2021
-I attended SRCCON &lt;!DOCTYPE html&gt; July 2021
-Jermiah Milbauer, Yutao Chen , James Evans, and I presented our poster &amp;ldquo;Representing Repositories in the Open-Source Ecosystem&amp;rdquo; at IC2S2 &lt;!DOCTYPE html&gt; June 2021
-Graduated. In my last year at school, I was the Civic Engagement Chair on the IOP&amp;rsquo;s Student Advisory Board , the chair of UChicago Student Government&amp;rsquo;s Technology committee, and founded UChicago&amp;rsquo;s Open Data Project.</description>
+      <guid>http://localhost:4195/news/</guid>
+      <description>&lt;!DOCTYPE html&gt; May 2024&#xA;I finished a six week batch at the Recurse Center . If you want to become a better programmer, I can&amp;rsquo;t recommend joining enough. &lt;!DOCTYPE html&gt; November 2023&#xA;I attended MIT&amp;rsquo;s Conference on Digital Experimentation (CODE). &lt;!DOCTYPE html&gt; August 2021&#xA;I attended SRCCON . &lt;!DOCTYPE html&gt; July 2021&#xA;Jermiah Milbauer, Yutao Chen , James Evans, and I presented our poster &amp;ldquo;Representing Repositories in the Open-Source Ecosystem&amp;rdquo; at IC2S2.</description>
+    </item>
+    <item>
+      <title>a concept:now</title>
+      <link>http://localhost:4195/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4195/now/</guid>
+      <description>Last updated: June 2, 2024&#xA;I&amp;rsquo;m living in Brooklyn, but will be looking for a new apartment (hopefully still in the Park Slope area) after July. I&amp;rsquo;m also settling into a new job at The Browser Company of New York - my first time working at a start-up - and am scheduled to take the LSAT in September.&#xA;I&amp;rsquo;ve also been burning through the Nike Run Club&amp;rsquo;s Getting Started 4 week plan, playing soccer at Chelsea Piers Field House, and coaching girls&amp;rsquo; under-11 soccer with South Bronx United.</description>
+    </item>
+    <item>
+      <title>a concept:uses</title>
+      <link>http://localhost:4195/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4195/uses/</guid>
+      <description>Last updated: June 2, 2024&#xA;Computer: A work-provided MacBook Pro M3 with 36GB. I was using my old 2013 MBP before this, and this is so, so fast by comparison.&#xA;Keyboard: At home, an Akko 3084. At work, Gamdias&amp;rsquo; Hermes M5.&#xA;Editor: VSCode with the high contrast theme.&#xA;Browser: Arc! Download it here: https://arc.net/&#xA;Terminal: terminal.app with spaceship installed.</description>
     </item>
     <item>
       <title>a concept:work</title>
-      <link>https://deblina.net/work/</link>
+      <link>http://localhost:4195/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://deblina.net/work/</guid>
+      <guid>http://localhost:4195/work/</guid>
       <description>Kernel Magazine &amp;ndash; with Ivan Zhao, Maggie Pan, and Matthew Sun Breath Counter A Dumb Little Gym Calculator Genesweep, Scrollytold Speedy Scholar Civic Tech Field Guide: Civic Data WaPo Elections Ohio Special Election Results Texas Special Elections Results Twitter Bots Pete Botigieg Talk to Dog Bot HP Avocado Index Southside Weekly Lack of Access, Long Waitlists: Education in Illinois Prisons Reboot Our Best Non-Tech Recs Replies to: Ineffective Altruism Should You Believe Wikipedia?</description>
     </item>
   </channel>
