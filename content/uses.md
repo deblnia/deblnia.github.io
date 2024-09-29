@@ -2,14 +2,36 @@
 title: a concept:uses
 ---
 
-_Last updated: June 2, 2024_
+_Last updated: September 29, 2024_
 
-- **Computer**: A work-provided MacBook Pro M3 with 36GB. I was using my old 2013 MBP before this, and this is so, so fast by comparison. 
+- **Computer**: I bought a 16GB RAM 2022 Macbook Pro, and I'm liking it so far. Was a bit on the fence, since the Air genuinely felt lighter to me, but I think the specs make the pro worth it. I was using my old 2013 MBP before this, and this is so, so fast by comparison. 
 
-- **Keyboard**: At home, an Akko 3084. At work, Gamdias' Hermes M5. 
+- **Keyboard**: At home, an Akko 3084. Sometimes a Keychron K2.  
 
-- **Editor**: VSCode with the high contrast theme. 
+- **Editor**: VSCode with the high contrast theme. Sometimes Cursor. 
 
-- **Browser**: Arc! Download it here: https://arc.net/
+- **Browser**: Chrome. 
 
-- **Terminal**: terminal.app with spaceship installed. 
+- **Browser Extensions:**
+    - reflect.app
+    - Self Control 
+
+- **Terminal**: terminal.app 
+
+- **Desktop Software:** 
+    - Raycast 
+    - CleanShotX 
+    - ScreenStudio 
+    - Rectangle
+
+- **Web Services:** 
+    - LunchMoney 
+    - Are.na
+    - TinyLogger 
+    - Notion
+    - Twitter 
+
+- **Library Memberships:** 
+    - New York Public Library
+    - Brooklyn Public Library 
+    - ~~San Francisco Public Library~~ (cancelled when I moved)
