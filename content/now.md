@@ -2,7 +2,7 @@
 title: a concept:now
 ---
 
-_Last updated: {{ "now" | date: "%Y-%m-%d" }}_
+_Last Updated: September 29, 2024_ 
 
 I'm living in Park Slope, Brooklyn near Prospect Park. 
  
