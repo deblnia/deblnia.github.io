@@ -16,7 +16,7 @@ I'm about halfway through a 12 week batch (my second!) at the Recurse Center. My
 
 I'm also: 
 - Playing soccer at Dean Playground and Brooklyn Bridge Park
-- Coaching Girl's U11 soccer with South Bronx United and my friend Shaun 
+- Coaching Girl's U11 soccer with South Bronx United and my friend Shaun
 - Taking Fractal University's Freestyle Cooking class 
 - Apply to graduate school (masters and PhD ?!) this cycle 
 - Taking the LSAT in January 
