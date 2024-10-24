@@ -12,7 +12,7 @@ I'm about halfway through a 12 week batch (my second!) at the Recurse Center. My
 - At least 5 Pairing Sessions (ideally double digits)
 - At least 2 Thursday Demos 
 - At least 2 Blog Posts 
-- (Tentatively stealing this from my friend [Christina](https://tunapee.bearblog.dev/now/)) 100 Shitty Projects 
+- (Tentatively stealing this from my friend [Christina](https://tunapee.bearblog.dev/now/)) 100 Shitty Projects. One of these is my meta-data library! Started below.  
 
 I'm also: 
 - Playing soccer at Dean Playground and Brooklyn Bridge Park
@@ -20,9 +20,6 @@ I'm also:
 - Taking Fractal University's Freestyle Cooking class 
 - Apply to graduate school (masters and PhD ?!) this cycle 
 - Taking the LSAT in January 
-
-
-
 
 
 Programming: 
