@@ -2,7 +2,7 @@
 title: a concept:now
 ---
 
-_Last Updated: October 24, 2024_ 
+_Last Updated: November 6, 2024_ 
 
 I'm living in Brooklyn, near Propsect Park. 
  
@@ -22,4 +22,7 @@ I'm also:
 - Taking Fractal University's Freestyle Cooking class 
 - Apply to graduate school (masters and PhD ?!) this cycle 
 - Taking the LSAT in January 
+
+
+<iframe src="https://deblina-understandingamaranthchipmunk.web.val.run/widget" width="100%" height="400" frameborder="0"></iframe>
 
