@@ -2,49 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://deblina.net/</loc>
+    <loc>http://localhost:3194/posts/2024/07/a-belated-return-statement/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/</loc>
+    <loc>http://localhost:3194/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/2021/05/making-mad-libs/</loc>
+    <loc>http://localhost:3194/posts/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3194/tags/recurse-center/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3194/tags/</loc>
+    <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3194/posts/2021/05/making-mad-libs/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/tags/</loc>
+    <loc>http://localhost:3194/tags/uchicago/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/tags/uchicago/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:3194/posts/2021/03/advanced-r-bookclub/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/2021/03/professor-richards-words-to-distinguish/</loc>
+    <loc>http://localhost:3194/tags/notes/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:3194/posts/2021/03/professor-richards-words-to-distinguish/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/tags/notes/</loc>
+    <loc>http://localhost:3194/posts/2020/12/stat-224-notes/</loc>
     <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/2020/12/stat-224-notes/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:3194/posts/2020/06/cs-154-notes/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/2020/04/maverick-markets-notes/</loc>
+    <loc>http://localhost:3194/posts/2020/04/maverick-markets-notes/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/2020/03/cs-152-notes/</loc>
+    <loc>http://localhost:3194/posts/2020/03/cs-152-notes/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/posts/2019/12/introduction-to-science-studies-notes/</loc>
+    <loc>http://localhost:3194/posts/2019/12/introduction-to-science-studies-notes/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://deblina.net/colophon/</loc>
+    <loc>http://localhost:3194/colophon/</loc>
   </url><url>
-    <loc>https://deblina.net/news/</loc>
+    <loc>http://localhost:3194/news/</loc>
   </url><url>
-    <loc>https://deblina.net/now/</loc>
+    <loc>http://localhost:3194/now/</loc>
   </url><url>
-    <loc>https://deblina.net/uses/</loc>
+    <loc>http://localhost:3194/uses/</loc>
   </url><url>
-    <loc>https://deblina.net/work/</loc>
+    <loc>http://localhost:3194/work/</loc>
   </url><url>
-    <loc>https://deblina.net/categories/</loc>
+    <loc>http://localhost:3194/categories/</loc>
   </url>
 </urlset>
