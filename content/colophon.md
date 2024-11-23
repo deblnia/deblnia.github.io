@@ -2,7 +2,7 @@
 title: a concept:colophon
 ---
 
-This website is a collection of markdown files stored in a public <a href="https://github.com/deblnia/deblnia.github.io" target="_blank">Github repository</a>, and deployed via Netlify using Hugo and R's `blogdown` package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using my 13" Mac Book Pro. 
+This website is a collection of markdown files stored in a public <a href="https://github.com/deblnia/deblnia.github.io" target="_blank">Github repository</a>, and deployed via Netlify using Hugo and R's `blogdown` package. I bought the domain name from Google Domains for $12/year, and I usually write from RStudio, using a Mac Book Pro. 
 
 The design is forked from <a href="http://bettermotherfuckingwebsite.com/" target="_blank">bettermotherfuckingwebsite.com</a>. It is 7 CSS declarations and uses your browser's default serif font. The font color is #444, and the accent color is (245, 215, 110, 0.5). 
 
