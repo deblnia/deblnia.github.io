@@ -2,8 +2,6 @@
 title: a concept:now
 ---
 
-_Last Updated: November 6, 2024_ 
-
 I'm living in Brooklyn, near Propsect Park. 
  
 I'm about halfway through a 12 week batch (my second!) at the Recurse Center. [The Plan](https://www.notion.so/deblina/THE-PLAN-RC-V2-FALL-24-12d45d2fcf2f809a823bdefb239af8db) is here.
