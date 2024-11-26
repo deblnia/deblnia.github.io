@@ -7,7 +7,7 @@
 <article>
     {{ .Content }}
 </article>
-{{- if eq .Type "post" -}}
+{{- if in .File.Dir "posts/" -}}
     <script src="https://utteranc.es/client.js"
             repo="deblnia/deblnia.github.io"
             issue-term="url"
