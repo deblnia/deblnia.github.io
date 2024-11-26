@@ -1,19 +1,24 @@
 {{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "datefmt") }}
-
 <div class="post-meta">
+    {{/* Display last updated ONLY on single pages */}}
+    {{- if and (eq .Kind "page") (not .Lastmod.IsZero) -}}
+        &nbsp;Last updated &#x5b;
+        <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format $dateFormat }}</time>
+        &#x5d;&nbsp;
+    {{- end -}}
     {{/* Display the date if set */}}
     {{- if not .Date.IsZero -}}
-    Date &#x5b;
+    Published &#x5b;
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format $dateFormat }}</time>
     &#x5d;
     {{- end -}}
-
+    
     {{/* Display taxonomies if available */}}
     {{- $hasTaxonomies := false }}
     {{- range $taxo, $taxonomy := .Site.Taxonomies }}
     {{- $elems := $.Param $taxo }}
     {{- if $elems }}
-    {{ $taxo | humanize }} &#x5b;
+    &nbsp;{{ $taxo | humanize }} &#x5b;
     {{- range $name := $elems }}
     {{- with $.Site.GetPage (lower (printf "/%s/%s" $taxo (urlize $name))) }}
     <a href="{{ .Permalink }}">{{ $name }}</a>
@@ -23,12 +28,4 @@
     {{- $hasTaxonomies = true }}
     {{- end }}
     {{- end }}
-
-    {{/* Display last updated if available */}}
-    {{- if not .Lastmod.IsZero -}}
-        {{- if or (not .Date.IsZero) $hasTaxonomies }}<br>{{- end }}
-        Last updated &#x5b;
-        <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format $dateFormat }}</time>
-        &#x5d;
-    {{- end -}}
 </div>
