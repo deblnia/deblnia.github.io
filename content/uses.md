@@ -11,7 +11,6 @@ title: a concept:uses
 - **Browser**: Chrome. 
 
 - **Browser Extensions:**
-    - reflect.app
     - Self Control 
 
 - **Terminal**: terminal.app 
