@@ -8,7 +8,8 @@
     &#x5d;
     {{- end -}}
 
-    {{/* Display taxonomies */}}
+    {{/* Display taxonomies if available */}}
+    {{- $hasTaxonomies := false }}
     {{- range $taxo, $taxonomy := .Site.Taxonomies }}
     {{- $elems := $.Param $taxo }}
     {{- if $elems }}
@@ -19,12 +20,15 @@
     {{- end }}
     {{- end }}
     &#x5d;
+    {{- $hasTaxonomies = true }}
     {{- end }}
     {{- end }}
-        {{/* Display last updated if available */}}
+
+    {{/* Display last updated if available */}}
     {{- if not .Lastmod.IsZero -}}
-    <br>Last updated &#x5b;
-    <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format $dateFormat }}</time>
-    &#x5d;
+        {{- if or (not .Date.IsZero) $hasTaxonomies }}<br>{{- end }}
+        Last updated &#x5b;
+        <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format $dateFormat }}</time>
+        &#x5d;
     {{- end -}}
 </div>
