@@ -25,7 +25,6 @@ title: a concept:uses
 - **Web Services:** 
     - LunchMoney 
     - Are.na
-    - TinyLogger 
     - Notion
     - Twitter 
 
