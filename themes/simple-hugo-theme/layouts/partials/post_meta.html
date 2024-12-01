@@ -3,11 +3,10 @@
 <div class="post-meta">
     {{/* Display the date if set */}}
     {{- if not .Date.IsZero -}}
-    Date &#x5b;
+    <span style="font-size: x-small;"> Date &#x5b;
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format $dateFormat }}</time>
     &#x5d;
     {{- end -}}
-
     {{/* Display taxonomies if available */}}
     {{- $hasTaxonomies := false }}
     {{- range $taxo, $taxonomy := .Site.Taxonomies }}
@@ -23,12 +22,11 @@
     {{- $hasTaxonomies = true }}
     {{- end }}
     {{- end }}
-
     {{/* Display last updated if available */}}
     {{- if not .Lastmod.IsZero -}}
-        {{- if or (not .Date.IsZero) $hasTaxonomies }}<br>{{- end }}
+        {{- if or (not .Date.IsZero) $hasTaxonomies }}<span> </span>{{- end }} <!-- Added separator -->
         Last updated &#x5b;
         <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format $dateFormat }}</time>
-        &#x5d;
+        &#x5d;</span>
     {{- end -}}
 </div>
