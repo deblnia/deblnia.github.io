@@ -21,11 +21,10 @@ title: a concept:uses
     - ScreenStudio 
     - Rectangle
 
-- **Web Services:** 
+- **Web Services I pay for:** 
     - LunchMoney 
     - Are.na
-    - Notion
-    - Twitter 
+    - ~~Notion~~ (paid software, but I got grandfathered into a free education plan 🤫) 
 
 - **Library Memberships:** 
     - New York Public Library
