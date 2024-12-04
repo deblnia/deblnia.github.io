@@ -3,6 +3,10 @@ title: a concept:news
 layout: news
 ---
 
+{{< columns "December 2024" >}}
+- I became an [NSDA-accredited](https://www.speechanddebate.org/learn/judge-accreditation/)  debate judge. 
+{{< /columns >}}
+
 {{< columns "May 2024" >}}
 - I finished a six week batch at the <a href="https://www.recurse.com/" target="_blank"> Recurse Center </a>. If you want to become a better programmer, I can't recommend <a href="https://www.recurse.com/scout/click?t=8d2dd8a20d40e87db7c3b5bdf4274a66" target="_blank"> joining </a>  enough. 
 
