@@ -4,6 +4,7 @@ layout: news
 ---
 
 {{< columns "December 2024" >}}
+- I joined the [Park Slope Food Co-op](https://en.wikipedia.org/wiki/Park_Slope_Food_Coop). 
 - I became an [NSDA-accredited](https://www.speechanddebate.org/learn/judge-accreditation/)  debate judge. 
 {{< /columns >}}
 
