@@ -1,11 +1,8 @@
-<fieldset>
-  <legend>
-  {{ if not (.Get 1) }}
-  {{ (.Get 0) }}
-  {{ end }}
-  {{ if (.Get 1) }}
-  <a href = {{ (.Get 1) }} target="_blank"> {{ (.Get 0) }} </a>
-  {{ end }}
-  </legend>
-      {{ .Inner | markdownify}} 
-</fieldset>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="{{ .Get 0 }}" alt="Project card image" style="width: 150px; margin-right: 20px; vertical-align: top; display: inline-block;">
+  <div style="margin: 0; padding: 0; flex: 1; display: inline-block;">
+    <p style="margin: 0; padding: 0; line-height: 1.4;">
+      {{ .Inner | markdownify }}
+    </p>
+  </div>
+</div>
