@@ -12,6 +12,7 @@ I helped make Kernel's inaugural website with <a  href = "https://ivanzhao.me/" 
 {{< project "Twitter Bots" "null" "2018-2021">}}
 
 I made and managed a few Twitter bots, back when you still could. 
+
 - [Pete Botigieg](https://twitter.com/petebutbot) (an early experiment in Markov-chain text generation, [source](https://gist.github.com/deblnia/46b09c4542ce20802c38fe13619ff36d))
 - [Talk to Dog Bot](https://twitter.com/talktodogbot) (made using Tracery, via [Cheap Bots Done Quick](https://cheapbotsdonequick.com/)) 
 - [HP Avocado Index](https://twitter.com/hpavocadoprice?lang=en)
