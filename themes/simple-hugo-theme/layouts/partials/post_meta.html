@@ -3,7 +3,7 @@
 <div class="post-meta">
     {{/* Display the date if set */}}
     {{- if not .Date.IsZero -}}
-    <span style="font-size: smaller;"> Date &#x5b;
+    <span> Date &#x5b;
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format $dateFormat }}</time>
     &#x5d;
     {{- end -}}
