@@ -1,10 +1,13 @@
+{{ $title := .Get 0 }}
+{{ $link := .Get 1 }}
+{{ $year := .Get 2 }}
+
 <fieldset>
   <legend>
-  {{ if not (.Get 1) }}
-  {{ (.Get 0) }}
-  {{ end }}
-  {{ if (.Get 1) }}
-  <a href = {{ (.Get 1) }} target="_blank"> {{ (.Get 0) }} </a>
+  {{ if eq $link "null" }}
+  {{ $title }} ({{ $year }})
+  {{ else }}
+    {{ $title }} <a href="{{ $link }}" target="_blank">⇗</a> ({{ $year }})
   {{ end }}
   </legend>
       {{ .Inner | markdownify}} 
