@@ -20,7 +20,7 @@ I made and managed a few Twitter bots, back when you still could.
 
 {{< project "Reboot" "https://joinreboot.org/" "2021-2022">}}
 
-I was on the first editorial board 
+I was on Reboot's first editorial board and contributed a few pieces to the newsletter. 
 
 - {{< link "https://joinreboot.org/p/nontech" >}} Our Best Non-Tech Recs {{< /link>}}  
 - {{< link "https://reboothq.substack.com/p/replies-ineffective-altruism?s=r" >}} Replies to: Ineffective Altruism {{< /link>}} 
