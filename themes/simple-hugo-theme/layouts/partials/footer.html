@@ -19,8 +19,11 @@
     {{/* Display copyright if available */}}
     {{ if .Site.Copyright }}
     <div class="copyright">
-        <a href="/colophon/">©</a>{{- .Site.Copyright -}}
-    </div> 
+        <a href="/colophon/">©</a> {{ now.Year }} —{{- .Site.Copyright -}}
+    </div>
     {{ end }}
+    <div class="last-updated">
+        Last updated: {{ now.Format "January 2, 2006" }}
+    </div>
 </div>
 {{ end }}
